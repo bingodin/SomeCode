@@ -4,3 +4,4 @@
 每个简单的程序都有背后的思想和适用范围
 
 详细内容可以看wikihttps://github.com/yfor/SomeCode/wiki
+[There is some screenshot。](http://yfor.sinaapp.com/)

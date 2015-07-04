@@ -1,0 +1,149 @@
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+信不信由你 这某种程度上就是一个解释器
+Believe it or not, to some extent, it is an interpreter.
+</body>
+<script>
+var myL = (function() {
+    var context = {};//上下文的对象
+    context.val={inf:"createdByWangQ"};//变量
+    context.methed = {};//方法
+    context.methed.add = function(a, b) {
+            return a + b
+      
+    }
+
+  context.methed.sub = function(a, b) {
+            return a  - b
+     
+    }
+
+  context.methed.mul =function(a, b) {
+            return a  * b
+        
+    }
+      context.methed.div = function(a, b) {
+            return a  / b
+      
+    }
+       context.methed.isString =function (exp){
+    var a=exp.split("");
+   return a[0]==a[a.length-1]&&(a[0]=="'"||a[0]=='"')
+}
+       context.methed.isFunction =function (exp){
+        var start=exp.charAt(0)
+        var end=exp.charAt(exp.length-1);
+         var a = exp.substr(1).split(" ").filter(function(data){return data!==" "})
+        return start=="("&&end==")"&&(a[0]);//have bugs  没有正确的实现
+}
+     context.methed.eval=function(exp) {
+            if(exp&&exp.trim)exp=exp.trim();
+            else return exp;
+            var commentRegExp = /(\/\*([\s\S]*?)\*\/|\/\/(.*)$)/mg//require.js 也有bug
+            exp=exp.toString().replace(commentRegExp, '')//去掉注释
+            //如果已经定义
+            if (context.val[exp]) {
+                return context.val[exp];
+            } 
+
+            var a = exp.split(" ").filter(function(data){return data!==" "})
+            //运行函数
+            if (a.length>1) {
+                var methed = a[0];
+                var param = slice(1);
+                    param = param.map(context.methed.eval);
+                if (context.methed[methed]) {
+                  return param.map(function(a) {
+            return a -0;//转数字
+            }).reduce(context.methed[methed]);
+                   
+                }
+            }
+            //字符串
+            if(context.methed.isString(exp)){
+                return exp.substr(1,exp.length-2);
+            }
+             if(exp=="true"||exp=="false"){
+               
+                return exp
+            }
+           //返回数字
+            if( parseFloat(exp)==exp)
+                return exp-0; 
+            //未定义
+            return {}["undefined"]
+
+            
+        }
+      context.methed.define=  function(key, value) {
+            key=key.trim();
+            //只传一个参数的语法糖
+            if(typeof value ==="undefined"){
+                var a=key.split("=").filter(function(data){return data!==" "})
+                    if(a.length==2){
+                           key=a[0].trim()
+                           // value=context.methed.eval(a[1]);完全自己的求值规则
+                           /**
+                           // myL.define("a",10);
+
+                           如define（"a","add 1 1"）
+
+                           SyntaxError: Unexpected number
+                           **/
+                        value=context.methed.eval(a[1])
+                        //   value=eval(a[1])   //js的传递 // myL.define("a",10*12);
+                    }
+                    else{
+                       throw "define error";
+                    } 
+            }
+       
+            if(key.indexOf(" ")>-1) {
+
+                throw "varable name inner can not have space";
+            }
+                //未定义
+            if(typeof context.val[key] === 'undefined'){
+                 context.val[key] = context.methed.eval(value);
+                 // context.val[key] = value;//求值后传递的如12 *12
+                 return context.val[key];
+            }
+           
+            else{
+                //重复定义错误
+            throw "redefine error";
+            }
+            
+        }
+    return {
+        //定义的方法
+        define: context.methed.define,
+        //解释
+        eval: context.methed.eval
+    }
+
+
+}());
+// myL.define("a",10); // 定义变量   应该也可以定义函数
+//myL.define(" a = 10 "); // 变形
+// myL.eval("a");       //取得变量值  未定义时
+// myL.eval("1");      // 数字返回数字
+// myL.eval("div 20 4"); //  函数运行
+// myL.eval("mul 1 2 3 4"); // 可以多个参数
+// myL.eval("add a a");    //参数可以是变量
+// myL.eval("true");        //布尔值
+// myL.eval("'str'") // 字符串
+// myL.eval("1/*isNumber*/") // 字符串
+
+//改进的思路
+// context.val.add= context.methed.add ;    
+// context.val.sub= context.methed.sub ;
+// context.val.mul= context.methed.mul ;
+// context.val.div= context.methed.div ;
+// context.val.eval= context.methed.eval ;  
+// myL.define("b","add 1 1")
+</script>
+</html>

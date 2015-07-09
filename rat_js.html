@@ -1,0 +1,63 @@
+<script>
+
+
+//分数类型构造器
+function make_rat(x,y){
+return function (n_or_d){
+if(n_or_d=="n"){
+return x;
+}
+if(n_or_d=="d"){
+return y;
+}
+throw "error oprate on rat";
+}
+}
+//取分子
+function rat_n(rat){
+return rat('n');
+}
+//取分母
+function rat_d(rat){
+return rat('d');
+}
+//加法
+function ratadd(x,y){
+}
+//乘法
+function ratmul(x,y){
+}
+//test
+var half=make_rat(1,2); 1
+
+rat_n(half)
+1
+rat_d(half);
+2
+
+//加1
+function add1(x){
+return x+1;
+}
+//减1
+function sub1(x){
+return x-1;
+}
+function add(x,y){
+//if(y>x)var tem=y;y=x;x=tem; 
+if(y==0)return x;
+//return add1(add(x,sub1(y)))
+return add(add1(x),sub1(y)) //js 并没有做尾递归优化   c语言需要开启编译选项   一些需要支持这个特征
+}
+
+add(10,9);  19
+
+
+
+</script>
+<script>
+var s= document.getElementsByTagName("script")[0].innerText
+document.write("<pre>")
+document.write(s)
+document.write("</pre>")
+</script>

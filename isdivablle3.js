@@ -1,4 +1,6 @@
-6
+//不使用除法和模运算计算一个数是否被三整除
+
+// 数字字符串的求和  "121" =>4
 function sumofA(a){
 sum=0;
 for(var i=0;i<a.length;i++){

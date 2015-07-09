@@ -1,6 +1,11 @@
-<html>
+﻿<html>
 <head>
     <title></title>
+    <style>
+	pre{
+border: 3px solid #b6b6b6;
+}
+    </style>
 </head>
 <body>
 信不信由你 这某种程度上就是一个解释器
@@ -145,5 +150,14 @@ var myL = (function() {
 // context.val.div= context.methed.div ;
 // context.val.eval= context.methed.eval ;  
 // myL.define("b","add 1 1")
+</script>
+
+
+<script>
+// 在页面上显示
+var s= document.getElementsByTagName("script")[0].innerText
+document.write("<pre>")
+document.write(s)
+document.write("</pre>")
 </script>
 </html>

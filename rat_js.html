@@ -3,6 +3,7 @@
 
 //分数类型构造器
 function make_rat(x,y){
+//var g=gcd(x,y)
 return function (n_or_d){
 if(n_or_d=="n"){
 return x;
@@ -15,6 +16,8 @@ throw "error oprate on rat";
 }
 //取分子
 function rat_n(rat){
+
+//gcd()
 return rat('n');
 }
 //取分母

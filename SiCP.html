@@ -17,10 +17,42 @@ SICP
 //define
 "(define a 1)"
 "a"
+//开方
+function sqrt(n){
+
+return startTry(1)
+function startTry(guess){
+if(closed(guess))return guess;
+return startTry(impove(guess))
+}
+function impove(guess){
+
+return  (guess+ n/guess)/2.0;//牛顿法的变形  
+//可选 二分法
+//递归的迭代形式  容易理解  
+
+/**
+迭代形式  熟悉的
+var guess
+while( !closed(guess)){
+guess= impove(guess)
+}
+return guess
 
 
 
 
+
+**/
+
+}
+function closed(guess){
+return Math.abs(guess*guess-n)/n<0.001 //误差比例
+return Math.abs(guess*guess-n)<0.001 //绝对值
+}
+}
+
+sqrt(2)
 
 "---------------------------------------------------------"
 //语言实现
@@ -156,7 +188,7 @@ else{
 						
 					}
 
-					var rt =context[nameAndPra.name](nameAndPra.pra);
+					var rt =context[nameAndPra.name](nameAndPra.pra);//应用参数  单参数   参数数组
 					//销毁运行临时变量
 					if(context[nameAndPra.name].pra){
 						for(var j=0;j< length;j++)context["del"](fp[j])		

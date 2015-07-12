@@ -49,7 +49,7 @@ return x-1;
 function add(x,y){
 //if(y>x)var tem=y;y=x;x=tem; 
 if(y==0)return x;
-//return add1(add(x,sub1(y)))
+//return add1(add(x,sub1(y)))//完全不同的shape
 return add(add1(x),sub1(y)) //js 并没有做尾递归优化   c语言需要开启编译选项   一些需要支持这个特征
 }
 

@@ -124,7 +124,7 @@ context["define"]=function(param){
 		if(typeof context[newkey] !== 'undefined'){          throw "redefine error";	}
 		//构造成函数
 		var vs="newkey=function("+read_S_exp(key).pra.join(",")+"){return l('"+value+" ')}"
-		context[newkey]=	window.eval(vs)  //函数可以重复定义吗？ 
+		context[newkey]=	window.eval(vs)  //函数可以重复定义吗？  
 		context[newkey].pra=read_S_exp(key).pra
 		context[newkey].toString=function(){/**or key+value**/ return "com Process"}
 		context[newkey].toString=function(){return  key+value}
@@ -188,7 +188,7 @@ else{
 						
 					}
 
-					var rt =context[nameAndPra.name](nameAndPra.pra);//应用参数  单参数   参数数组
+					var rt =context[nameAndPra.name](nameAndPra.pra);//应用参数  单参数   参数数组 .apply
 					//销毁运行临时变量
 					if(context[nameAndPra.name].pra){
 						for(var j=0;j< length;j++)context["del"](fp[j])		

@@ -12,3 +12,7 @@
 you are something,你真牛皮，不简单，不是一点点。
 
 somecode.
+codeForReadBook:一些书中的源码和习题
+	The C Programming Language 第二版中文版
+	linux编程
+	[计算机程序的构造和解释].(中文版）

@@ -1,0 +1,32 @@
+
+   <script>
+var mostVisited=[
+	{href:"http://jsoneditoronline.org/",doc:"JOSN可视化"},
+	{href:"http://www.php100.com/manual/jquery/",doc:"JQUETY手册"},
+	{href:"http://ifeve.com/",doc:"并发编程网"},
+	
+	{href:"http://www.ttlsa.com/news/howto-access-google/",doc:"GOOGLE镜像地址"},
+	{href:"http://www.cnblogs.com/vamei/tag/%E7%B3%BB%E5%88%97%E7%B4%A2%E5%BC%95/",doc:"系列教程索引"},
+	{href:"http://www.ccs.neu.edu/home/matthias/HtDP2e/",doc:"HtDP2e"},
+	
+	
+	
+	{href:"http://introcs.cs.princeton.edu/java/home/",doc:"跨学科的java编程"}
+	
+	
+];
+
+var buldUrl=function (urlArr){
+	var str='<div  id = "mostVisited">';
+	for(var i =0 ;i<urlArr.length;i++){
+		var url=urlArr[i];
+		str=str +'<a href="' +url.href+  '" >'+ url.doc +'</a>'
+		str+="<br>"
+	}
+	return str+"</diV></div>";
+}
+
+document.write(buldUrl(mostVisited));
+</script>
+
+		

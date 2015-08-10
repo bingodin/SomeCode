@@ -7,6 +7,7 @@ int main(){
 	char *some_memory;
 	size_t  size_to_allocate = A_MEGABYTE;
 	int megs_obtained = 0;
+	//THIS ！！！！！！！！ will out memory
 	while (megs_obtained <(PHY_MEM_MEGS * 200)){
 		some_memory = (char *) malloc(size_to_allocate);
 		if(some_memory != NULL){

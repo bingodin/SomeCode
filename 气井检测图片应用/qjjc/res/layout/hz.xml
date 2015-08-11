@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+ 
+    <LinearLayout  
+        xmlns:android="http://schemas.android.com/apk/res/android"  
+        android:layout_width="fill_parent"  
+        android:layout_height="wrap_content"  
+        android:orientation="horizontal" >   
+    
+        <TextView  
+            android:layout_width="100dip"  
+            android:layout_height="30dp"  
+            android:text="井号"  
+            android:textSize="20sp" />   
+    
+        <TextView  
+            android:id="@+id/job"  
+            android:layout_width="150dip"  
+            android:layout_height="30dp"  
+            android:text="启动时间"  
+            android:textSize="20sp" />   
+    
+        <TextView  
+            android:id="@+id/addr"  
+            android:layout_width="150dip"  
+            android:layout_height="30dp"  
+            android:text="流压(MPa)"  
+            android:textSize="20sp" />   
+    
+        <TextView  
+            android:id="@+id/student"  
+            android:layout_width="120dip"  
+            android:layout_height="30dp"  
+            android:text="水量 (m3)"  
+            android:textSize="20sp" />   
+    
+        <TextView  
+            android:id="@+id/isworking"  
+            android:layout_width="80dip"  
+            android:layout_height="30dp"  
+            android:text="电流 (A)"  
+            android:textSize="20sp" />   
+    </LinearLayout> 
+	<ListView android:id="@+id/list" android:layout_width="wrap_content"
+		android:layout_height="wrap_content"></ListView>
+</LinearLayout>

@@ -1,0 +1,81 @@
+锘�!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>楦熺灠鍥�/title>
+	<style type="text/css">
+	
+		#bodybg { 
+			position: absolute;
+			width: 100%;
+			height: 100%;
+			left: 0px;
+			top: 0px;
+			z-index: -1;
+		}
+		#bodybg .stretch { 
+			width:100%;
+			height:100%;
+		} 
+	
+		#temp{
+		font-weight: bold;
+		position:fixed;
+		bottom:40px;
+		left:130px;
+		}
+		
+		#showbox{
+				
+	position:relative;
+	left:660px
+		}
+			#lv{
+				font-weight: bold;
+	   background-color:##8B8B00;	       
+	   width:160px;/*(涓�畾瑕佽缃繖涓�)*/	       
+	   height:50px;/*(涓�畾瑕佽缃繖涓�)*/	     
+	   margin: auto;  	
+	   position: absolute;  
+	   top: 0; left: 0; bottom: 0; right: 0;  	   
+	   text-align:center;	
+	   vertical-align:middle;	    
+}	   
+	   
+	   
+</style>
+
+
+	</style>
+
+
+		</head>
+		<body >
+			<div id="bodybg">
+  <img src=12.jpg class="stretch" />
+</div
+<div id="showbox">20150404</div>
+<div id="lv">娴侀噺锛�0 m3/h</div>
+<div id="temp">褰撳墠娓╁害锛�0 C</div>
+
+<script language=javascript>
+//var int=setInterval("clock()",1000)
+function clock()
+  {
+	var NowDate=new Date();
+				 h=NowDate.getHours();
+					m=NowDate.getMinutes();
+				s=NowDate.getSeconds();
+					document.getElementById('showbox').innerHTML = s;銆�
+				銆�/	document.getElementById('showbox').innerHTML = h+'鏅�+m+'鍒�+s+'绉�;
+					//document.getElementById('temp').innerHTML = "褰撳墠娓╁害锛�+Math.ceil(Math.random()*56)+"."+Math.ceil(Math.random()*10)+" C";
+					//var str_lv="娑蹭綋娴侀噺锛�+Math.ceil(Math.random()*56)+"."+Math.ceil(Math.random()*10)+" m3/h";
+					 //str_lv =str_lv+"绠″帇锛�+Math.ceil(Math.random()*56)+"."+Math.ceil(Math.random()*10)+" mPa";
+					//document.getElementById('lv').innerHTML = str_lv;
+				}
+  
+</script>
+
+
+		</body>
+</html>

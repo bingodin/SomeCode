@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title></title>
+	<style type="text/css">
+	
+		#bodybg { 
+			position: absolute;
+			width: 100%;
+			height: 100%;
+			left: 0px;
+			top: 0px;
+			z-index: -1;
+		}
+		#bodybg .stretch { 
+			width:100%;
+			height:100%;
+		} 
+	
+		#temp{
+		font-weight: bold;
+		position:fixed;
+		bottom:40px;
+		left:130px;
+		}
+		
+		#showbox{
+				
+	position:relative;
+	left:660px
+		}
+			#lv{
+				font-weight: bold;
+	   background-color:##8B8B00;	       
+	   width:160px;   
+	   height:50px;
+	   margin: auto;  	
+	   position: absolute;  
+	   top: 0; left: 0; bottom: 0; right: 0;  	   
+	   text-align:center;	
+	   vertical-align:middle;	    
+}	   
+	   
+	   
+</style>
+
+
+	</style>
+
+
+		</head>
+		<body >
+			<div id="bodybg">
+  <img src=12.jpg class="stretch" />
+</div
+<div id="showbox">20150404</div>
+<div id="lv">��50 m3/h</div>
+<div id="temp">��50 C</div>
+
+<script language=javascript>
+//var int=setInterval("clock()",1000)
+function clock()
+{
+var NowDate=new Date();
+var h=NowDate.getHours();
+var m=NowDate.getMinutes();
+var s=NowDate.getSeconds();
+document.getElementById('showbox').innerHTML = s;
+}
+  
+</script>
+
+
+		</body>
+</html>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, IchartjstestActivity!</string>
+    <string name="app_name">气井监测器</string>
+    <string name="cqjcshz">采气井参数总汇</string>
+    <string name="QYN0_12V">QYN0_12V井压</string>
+    <string name="NK">鸟瞰图</string>
+</resources>

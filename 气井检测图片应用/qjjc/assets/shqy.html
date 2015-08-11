@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		
+		<style type="text/css">
+		#showbox
+		{
+		
+	position:relative;
+	left:660px
+		}
+		
+</style>
+		<script type="text/javascript" src="ichart-1.0.min.js"></script>
+		<script type="text/javascript">
+		var chart;
+		var velueArrayIni =[],length=60;//初始化数据 一分钟展示数据量
+		for(var i=0;i<=length;i++){
+		velueArrayIni.push(0);
+		}
+			$(function(){
+				var data = [
+				        	{
+				        		name : '气量',
+				        		value:velueArrayIni,
+				        		color:'#1f7e92'
+				        	}
+				       ];
+			       var labelArray =[]
+				   for(var i=0;i<=length;i++){
+						if(i%5==0)
+						labelArray.push(length-i);
+						else
+						labelArray.push('');
+				   }
+				 chart = new iChart.Area2D({
+						render : 'canvasDiv',
+						data: data,
+						turn_off_touchmove:true,
+						title : 'QYN1油井井底实时气量',
+						width : 800,
+						height : 400,
+						labels:labelArray,
+							subtitle:{
+							text:'单位:MPa',//利用副标题设置单位信息
+							fontsize:16,
+							color:'#0c222f',
+							textAlign:'left',
+							padding:'0 40',
+							height:20
+						}
+					});
+				
+				chart.draw();
+			});
+			
+			function setContentInfo(data)  {  
+				var jsonObjects = eval(data);   //通过eval方法处理得到json对象数组  
+				chart.push("data",jsonObjects);
+				chart.setUp();
+				chart.draw();
+				
+				　var NowDate=new Date();
+				　var h=NowDate.getHours();
+				　var m=NowDate.getMinutes();
+				　var s=NowDate.getSeconds();　
+				　document.getElementById('showbox').innerHTML = h+'時'+m+'分'+s+'秒';
+			}  
+
+
+		</script>
+		</head>
+		<body>
+			<div id='canvasDiv'></div>
+			<div id="showbox">1</div>
+</body>
+</html>

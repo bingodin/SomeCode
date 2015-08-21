@@ -1,0 +1,9 @@
+mvn archetype:generate -DgroupId=com.yfor  -DartifactId=maventest -DarchetypeArtifactId=maven-archetype-quickstart  -DinteractiveMode=fale
+
+
+<mirror>
+      <id>CN</id>
+      <name>OSChina Central</name>                                                                                                                       
+      <url>http://maven.oschina.net/content/groups/public/</url>
+      <mirrorOf>central</mirrorOf>
+    </mirror>

@@ -4,7 +4,11 @@ import java.util.ArrayList;
 
 import com.thoughtworks.xstream.annotations.XStreamAlias;
 import com.yfor.xml.type.Body;
-
+/**
+ * 客户订单返回信息的包
+ * @author Administrator
+ *
+ */
 
 @XStreamAlias("Body")
 public class CustomOrderBody extends Body {

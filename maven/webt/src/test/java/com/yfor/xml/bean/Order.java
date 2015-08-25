@@ -1,7 +1,11 @@
 package com.yfor.xml.bean;
 
 import com.thoughtworks.xstream.annotations.XStreamAlias;
-
+/**
+ * ∂©µ•¿‡
+ * @author Administrator
+ *
+ */
 @XStreamAlias("Order")
 public class Order {
 	int number;

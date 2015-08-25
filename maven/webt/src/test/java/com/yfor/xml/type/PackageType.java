@@ -4,6 +4,6 @@ package com.yfor.xml.type;
  * @author xiaoqiang
  *
  */
-public enum HeadType {
+public enum PackageType {
 	REQUEST, RESPOSE
 }

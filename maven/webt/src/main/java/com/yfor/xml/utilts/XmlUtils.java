@@ -13,6 +13,7 @@ import com.thoughtworks.xstream.XStream;
 import com.thoughtworks.xstream.io.xml.DomDriver;
 import com.yfor.xml.bean.PackageMessage;
 import com.yfor.xml.type.ContentValue;
+import com.yfor.xml.type.PackageType;
 /**
  * xml工具类
  * 
@@ -108,14 +109,29 @@ public class XmlUtils {
 	public static  <T> PackageMessage PackageMessagetoBean(String xml,Class<?>  headClass,Class<?> bodyClass) throws Exception {
 
 		//可以优化取参数的方式  例如dom4j
+		/**现在的方式比较危险  但是可以转换成功 但是思路比较简单  网上写的比较复杂
+		 * 
+		 * 去除package 的类型  头 体
+		 * 进行分别转换
+		 */
 		String splitStr="<Body";
 		String[] split = xml.split(splitStr);
 		if(split.length!=2){
 			return null;
 		}
+		//取得消息头字符串
 		String headStr=ContentValue.xmlHead+split[0].substring(split[0].indexOf("<Head"));
+		//取得消息体符串
 		String bodyStr=ContentValue.xmlHead+"<Body"+split[1].substring(0, split[1].lastIndexOf("<"));
-		PackageMessage p=new  PackageMessage();
+		
+		//类型 
+		PackageMessage p=new  PackageMessage(PackageType.REQUEST);
+//		判断是否为RESPOSE
+		if(split[0].lastIndexOf("RESPOSE")>0){
+			p=new  PackageMessage(PackageType.RESPOSE);
+			
+		}
+		
 
 		p.setBody(toBeanFromStr(bodyStr,bodyClass));
 		p.setHead(toBeanFromStr(headStr,headClass));
@@ -130,8 +146,7 @@ public class XmlUtils {
 	 */
 	@SuppressWarnings("unchecked")
 	public static <T> T  toBeanFromStr(String str,Class<T> cls) throws Exception{
-		   	XStream xstream = new XStream(new DomDriver());
-		  
+		 XStream xstream = new XStream(new DomDriver());
 		 xstream.processAnnotations(cls);
 		 return (T)xstream.fromXML(str);   
      }
@@ -141,11 +156,12 @@ public class XmlUtils {
 	 * @return
 	 */
 	 public static String   toXml(PackageMessage p){
+		/**
+		 * 自动利用注解生成xml
+		 */
 		XStream xstream = new XStream();
 		xstream.aliasSystemAttribute(null, "class");//去掉class熟悉
-//		xstream.processAnnotations(this.getClass());
 		xstream.autodetectAnnotations(true); 
-		
 		StringBuilder xml = new StringBuilder();
 		xml.append(ContentValue.xmlHead).append(xstream.toXML(p));
 		return xml.toString();

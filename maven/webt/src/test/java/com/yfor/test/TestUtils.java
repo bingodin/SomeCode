@@ -2,8 +2,6 @@ package com.yfor.test;
 
 import static org.junit.Assert.*;
 
-import org.junit.Test;
-
 import com.yfor.xml.bean.CustomOrderBody;
 import com.yfor.xml.bean.FailedHead;
 import com.yfor.xml.bean.Head;
@@ -16,7 +14,7 @@ public class TestUtils {
 	 * ≤‚ ‘¿‡
 	 * @throws Exception
 	 */
-	@Test
+//	@Test
 public  void testUtils() throws Exception {
 	
 	PackageMessage p =new PackageMessage(PackageType.REQUEST);

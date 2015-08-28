@@ -29,3 +29,5 @@ serach 简单的jdbc 全文搜索
 
 
 my-WEBSITE 是我托管在sae上的网站代码
+
+xmlappend 对xml进行StringBuffer 的append操作

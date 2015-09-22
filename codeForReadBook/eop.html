@@ -1,0 +1,23 @@
+<script>
+/*
+	s:
+	1. 0;
+	2. n-3属于s;
+*/
+//number -> boolean
+//is_S(0) true;
+//is_S(1) false;
+//is_S(3) true;
+function is_S(n){
+ if(n==0){
+	return true;
+ }
+ if(n-3>=0){
+	return is_S(n-3)
+ }
+	return false;
+}
+//in chrome is_S(3000000) throw exception Maximum call stack size exceeded
+</script>
+
+http://download.csdn.net/detail/kidrane/1626426#comment

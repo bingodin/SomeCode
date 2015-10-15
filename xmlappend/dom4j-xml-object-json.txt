@@ -1,4 +1,4 @@
-dom4j
+//import dom4j
  Element root = document.getRootElement();
  
     Object obj = parse(root); // 返回类型未知，已知DOM结构的时候可以强制转换
@@ -10,8 +10,8 @@ public Object parse(Element root) {
     } else {
         // 有子元素
         String prev = null;
-        boolean guess = true; // 默认按照数组处理
- boolean guess = false// 默认按照数组处理
+        //boolean guess = true; // 默认按照数组处理
+ 	boolean guess = false// 默认不按照数组处理 忽略1个元素时
         Iterator<?> iterator = elements.iterator();
         while (iterator.hasNext()) {
             Element elem = (Element) iterator.next();
@@ -24,14 +24,15 @@ public Object parse(Element root) {
             }
         }
         iterator = elements.iterator();
-        if (guess) {
- 	Map<String, Object> data = new HashMap<String, Object>();
+        if (guess) {//数组时 数组内是map
             List<Object> list= new ArrayList<Object>();
             while (iterator.hasNext()) {
                 Element elem = (Element) iterator.next();
-                ((List<Object>) list).add(parse(elem));
+		Map<String, Object> elemdata = new HashMap<String, Object>();
+		 ((Map<String, Object>) elemdata).put(elem.getName(), parse(elem));//不会丢失数组内对象的键
+                ((List<Object>) list).add(elemdata);
             }
-	   ((Map<String, Object>) data).put(elem.getName(), parse(elem));
+
             return data;
         } else {
             Map<String, Object> data = new HashMap<String, Object>();
@@ -43,3 +44,7 @@ public Object parse(Element root) {
         }
     }
 }
+//http://www.oschina.net/code/snippet_166969_43953
+//PS:只支持简单的遍历，如果Element只有一个会有歧义，然后就会死翘翘！
+//:java
+//xml->object->json

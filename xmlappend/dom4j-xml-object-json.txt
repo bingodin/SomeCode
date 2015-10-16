@@ -48,3 +48,4 @@ public Object parse(Element root) {
 //PS:只支持简单的遍历，如果Element只有一个会有歧义，然后就会死翘翘！
 //:java
 //xml->object->json
+//错误的函数还没有办法更改，因为很多地方已经使用。

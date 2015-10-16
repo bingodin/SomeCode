@@ -1,0 +1,3212 @@
+Revision: 107264
+Author: shiyang_sinosoft
+Date: 2015年10月16日 17:24:33
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-app.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-app.js
+
+Revision: 107203
+Author: chenghp_sinosoft
+Date: 2015年10月16日 15:09:03
+Message:
+声明按钮
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+
+Revision: 107183
+Author: shiyang_sinosoft
+Date: 2015年10月16日 11:30:09
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+
+Revision: 107170
+Author: shiyang_sinosoft
+Date: 2015年10月16日 10:07:05
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-app.js
+
+Revision: 107169
+Author: shiyang_sinosoft
+Date: 2015年10月16日 10:06:30
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/scheduled/TaskScheduled.java
+
+Revision: 107134
+Author: shiyang_sinosoft
+Date: 2015年10月15日 18:23:42
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/thread/WxTokenThread.java
+
+Revision: 107133
+Author: shiyang_sinosoft
+Date: 2015年10月15日 18:23:34
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/scheduled/TaskScheduled.java
+
+Revision: 107129
+Author: chenghp_sinosoft
+Date: 2015年10月15日 17:52:05
+Message:
+保单列表样式
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/huarui.css
+
+Revision: 107037
+Author: chenghp_sinosoft
+Date: 2015年10月15日 9:46:52
+Message:
+校验
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/scheduled/TaskScheduled.java
+
+Revision: 107014
+Author: chenghp_sinosoft
+Date: 2015年10月14日 19:07:09
+Message:
+校验
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/scheduled/TaskScheduled.java
+
+Revision: 107013
+Author: shiyang_sinosoft
+Date: 2015年10月14日 19:02:36
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/web.xml
+
+Revision: 107012
+Author: shiyang_sinosoft
+Date: 2015年10月14日 18:55:25
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/scheduled/TaskScheduled.java
+
+Revision: 107011
+Author: shiyang_sinosoft
+Date: 2015年10月14日 18:55:02
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/scheduled/TaskScheduled.java
+
+Revision: 107008
+Author: chenghp_sinosoft
+Date: 2015年10月14日 18:32:32
+Message:
+config.properties
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/config.properties
+
+Revision: 107007
+Author: chenghp_sinosoft
+Date: 2015年10月14日 18:31:21
+Message:
+webxml
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/web.xml
+
+Revision: 107006
+Author: chenghp_sinosoft
+Date: 2015年10月14日 18:28:18
+Message:
+推送微信模板消息
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/impl/GhCustomerClientServiceImpl.java
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/GhCustomerClientService.java
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/scheduled/TaskScheduled.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/scheduled/MyX509TrustManager.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/scheduled/WxTemplate.java
+
+Revision: 106949
+Author: shiyang_sinosoft
+Date: 2015年10月14日 15:28:21
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-app.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-app.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-app.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/register.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/register1.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/viewProtocol.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/xieyi.html, Revision, 106732)
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/xieyi.html
+
+Revision: 106914
+Author: shiyang_sinosoft
+Date: 2015年10月14日 14:14:24
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/index.html
+
+Revision: 106910
+Author: shiyang_sinosoft
+Date: 2015年10月14日 14:13:04
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+
+Revision: 106906
+Author: shiyang_sinosoft
+Date: 2015年10月14日 14:06:15
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/login.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-app.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/impl/GhCustomerClientServiceImpl.java
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/index.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/controller/GhCustomerClientController.java
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/GhCustomerClientService.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/bind.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/resetPwd.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/wxbd.html
+
+Revision: 106838
+Author: shiyang_sinosoft
+Date: 2015年10月14日 9:10:51
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/scheduled/TaskScheduled.java
+
+Revision: 106820
+Author: shiyang_sinosoft
+Date: 2015年10月13日 18:46:49
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/scheduled/TaskScheduled.java
+
+Revision: 106808
+Author: shiyang_sinosoft
+Date: 2015年10月13日 18:12:31
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/controllers.js
+
+Revision: 106807
+Author: shiyang_sinosoft
+Date: 2015年10月13日 18:11:54
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/controller/GhCustomerClientController.java
+
+Revision: 106760
+Author: shiyang_sinosoft
+Date: 2015年10月13日 15:16:53
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+
+Revision: 106759
+Author: chenghp_sinosoft
+Date: 2015年10月13日 15:12:42
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/controller/GhCustomerClientController.java
+
+Revision: 106757
+Author: chenghp_sinosoft
+Date: 2015年10月13日 15:03:34
+Message:
+formatt
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/impl/GhCustomerClientServiceImpl.java
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/controller/GhCustomerClientController.java
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/GhCustomerClientService.java
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util/PrimaryGenerater.java
+
+Revision: 106753
+Author: shiyang_sinosoft
+Date: 2015年10月13日 14:24:27
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/index.html
+
+Revision: 106752
+Author: shiyang_sinosoft
+Date: 2015年10月13日 14:23:59
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/weblogic.xml
+
+Revision: 106751
+Author: shiyang_sinosoft
+Date: 2015年10月13日 14:23:25
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-controllers.js
+
+Revision: 106750
+Author: shiyang_sinosoft
+Date: 2015年10月13日 14:23:19
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-controllers.js
+
+Revision: 106749
+Author: shiyang_sinosoft
+Date: 2015年10月13日 14:23:14
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-app.js
+
+Revision: 106748
+Author: shiyang_sinosoft
+Date: 2015年10月13日 14:22:51
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+
+Revision: 106746
+Author: shiyang_sinosoft
+Date: 2015年10月13日 14:21:43
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/controllers.js
+
+Revision: 106745
+Author: shiyang_sinosoft
+Date: 2015年10月13日 14:21:30
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/unbound.html
+
+Revision: 106744
+Author: shiyang_sinosoft
+Date: 2015年10月13日 14:21:24
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/wxjb.html
+
+Revision: 106743
+Author: shiyang_sinosoft
+Date: 2015年10月13日 14:21:08
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/impl/GhCustomerClientServiceImpl.java
+
+Revision: 106742
+Author: shiyang_sinosoft
+Date: 2015年10月13日 14:20:47
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/GhCustomerClientService.java
+
+Revision: 106741
+Author: shiyang_sinosoft
+Date: 2015年10月13日 14:20:34
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/controller/GhCustomerClientController.java
+
+Revision: 106732
+Author: chenghp_sinosoft
+Date: 2015年10月13日 13:31:54
+Message:
+注册
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/controller/GhCustomerClientController.java
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/register.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/xieyi.html
+
+Revision: 106569
+Author: chenghp_sinosoft
+Date: 2015年10月10日 19:17:54
+Message:
+样式问题
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/huarui.css
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo1.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-choosePlan.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-planConfirm.html
+
+Revision: 106553
+Author: shiyang_sinosoft
+Date: 2015年10月10日 17:17:03
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+
+Revision: 106544
+Author: shiyang_sinosoft
+Date: 2015年10月10日 16:38:31
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+
+Revision: 106535
+Author: shiyang_sinosoft
+Date: 2015年10月10日 16:06:26
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-index.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-supplementInfo.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/lpfw/lpfw-index.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-index.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/admin.css
+
+Revision: 106524
+Author: shiyang_sinosoft
+Date: 2015年10月10日 14:58:51
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo2.html
+
+Revision: 106508
+Author: shiyang_sinosoft
+Date: 2015年10月10日 11:55:47
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-index.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/lpfw/lpfw-index.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-index.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/wx_share_pic.png
+
+Revision: 106462
+Author: shiyang_sinosoft
+Date: 2015年10月9日 15:28:45
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/web.xml
+
+Revision: 106435
+Author: shiyang_sinosoft
+Date: 2015年10月9日 11:26:57
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-orderDetails.html
+
+Revision: 106434
+Author: shiyang_sinosoft
+Date: 2015年10月9日 11:19:04
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-controllers.js
+
+Revision: 106433
+Author: shiyang_sinosoft
+Date: 2015年10月9日 11:18:55
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+
+Revision: 106424
+Author: chenghp_sinosoft
+Date: 2015年10月9日 10:19:51
+Message:
+换号
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/huarui.css
+
+Revision: 106423
+Author: shiyang_sinosoft
+Date: 2015年10月9日 10:15:09
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo2.html
+
+Revision: 106399
+Author: shiyang_sinosoft
+Date: 2015年10月8日 18:10:53
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-payMoney.html
+
+Revision: 106398
+Author: shiyang_sinosoft
+Date: 2015年10月8日 18:09:00
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo2.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo1.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-payMoney.html
+
+Revision: 106397
+Author: shiyang_sinosoft
+Date: 2015年10月8日 18:07:05
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-controllers.js
+
+Revision: 106394
+Author: shiyang_sinosoft
+Date: 2015年10月8日 18:04:46
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+
+Revision: 106393
+Author: chenghp_sinosoft
+Date: 2015年10月8日 17:54:21
+Message:
+cccc
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+
+Revision: 106387
+Author: shiyang_sinosoft
+Date: 2015年10月8日 17:39:41
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+
+Revision: 106368
+Author: chenghp_sinosoft
+Date: 2015年10月8日 15:41:09
+Message:
+潘虹羽问题修改
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/huarui.css
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo1.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/login.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/step_1.png
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/step_2.png
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/step_3.png
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/step_4.png
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-app.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-index.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-supplementInfo.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/lpfw/lpfw-claimsSearch.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/lpfw/lpfw-index.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/lpfw/lpfw-zhinan.html
+
+Revision: 106305
+Author: shiyang_sinosoft
+Date: 2015年9月30日 15:45:35
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+
+Revision: 106302
+Author: shiyang_sinosoft
+Date: 2015年9月30日 15:28:32
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo1.html
+
+Revision: 106293
+Author: chenghp_sinosoft
+Date: 2015年9月30日 14:33:39
+Message:
+生产日期默认明天
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-services.js
+
+Revision: 106292
+Author: shiyang_sinosoft
+Date: 2015年9月30日 14:31:55
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-app.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-index.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/lpfw/lpfw-index.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-app.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-app.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-main.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/lpfw/lpfw-main.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-index.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-main.html
+
+Revision: 106288
+Author: shiyang_sinosoft
+Date: 2015年9月30日 14:02:27
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/web.xml
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/logback.xml
+
+Revision: 106274
+Author: shiyang_sinosoft
+Date: 2015年9月30日 10:22:12
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/controllers.js
+
+Revision: 106254
+Author: shiyang_sinosoft
+Date: 2015年9月29日 17:33:17
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-app.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-app.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-app.js
+
+Revision: 106251
+Author: shiyang_sinosoft
+Date: 2015年9月29日 17:10:39
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+
+Revision: 106243
+Author: shiyang_sinosoft
+Date: 2015年9月29日 15:26:37
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/cxtb.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/lpfw.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/wdcx.html
+
+Revision: 106241
+Author: shiyang_sinosoft
+Date: 2015年9月29日 15:08:58
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/web.xml
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/config.properties
+
+Revision: 106240
+Author: shiyang_sinosoft
+Date: 2015年9月29日 15:08:40
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-index.html
+
+Revision: 106239
+Author: shiyang_sinosoft
+Date: 2015年9月29日 15:08:26
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo1.html
+
+Revision: 106238
+Author: shiyang_sinosoft
+Date: 2015年9月29日 15:08:19
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-app.min.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-controllers.min.js
+
+Revision: 106237
+Author: shiyang_sinosoft
+Date: 2015年9月29日 15:08:09
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-app.min.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-controllers.min.js
+
+Revision: 106236
+Author: shiyang_sinosoft
+Date: 2015年9月29日 15:07:52
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-app.min.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-services.min.js
+
+Revision: 106235
+Author: shiyang_sinosoft
+Date: 2015年9月29日 15:07:29
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/controllers.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/filters.min.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.min.js
+
+Revision: 106234
+Author: shiyang_sinosoft
+Date: 2015年9月29日 15:06:50
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/admin.css
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/admin.min.css
+
+Revision: 106233
+Author: shiyang_sinosoft
+Date: 2015年9月29日 15:06:39
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/servlet
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/servlet/TakeWxTokenServlet.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/thread
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/thread/WxTokenThread.java
+
+Revision: 106232
+Author: shiyang_sinosoft
+Date: 2015年9月29日 15:06:28
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/controller/WxAuthenticationController.java
+
+Revision: 106215
+Author: chenghp_sinosoft
+Date: 2015年9月29日 11:27:45
+Message:
+去掉可选免赔额特约条款
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-choosePlan.html
+
+Revision: 106181
+Author: shiyang_sinosoft
+Date: 2015年9月28日 18:42:13
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-app.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-app.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-app.js
+
+Revision: 106180
+Author: chenghp_sinosoft
+Date: 2015年9月28日 17:52:20
+Message:
+使用性质
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+
+Revision: 106149
+Author: chenghp_sinosoft
+Date: 2015年9月28日 10:58:46
+Message:
+删除低版本spring-web jar
+----
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/spring-web-3.0.7.RELEASE.jar
+
+Revision: 105934
+Author: chenghp_sinosoft
+Date: 2015年9月24日 16:46:50
+Message:
+删除无用函数调用
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/impl/HrClientServiceImpl.java
+
+Revision: 105906
+Author: chenghp_sinosoft
+Date: 2015年9月24日 15:02:15
+Message:
+简化log
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/logback.xml
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util/LogUtil.java
+
+Revision: 105885
+Author: shiyang_sinosoft
+Date: 2015年9月24日 14:14:18
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+
+Revision: 105883
+Author: shiyang_sinosoft
+Date: 2015年9月24日 14:02:29
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/login.html
+
+Revision: 105866
+Author: chenghp_sinosoft
+Date: 2015年9月24日 11:43:37
+Message:
+日志配置
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/web.xml
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/logback.xml
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/config.properties
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/controller/WxAuthenticationController.java
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/impl/HrClientServiceImpl.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util/LogUtil.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/logback-ext-spring-0.1.5-SNAPSHOT.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/spring-web-3.2.2.RELEASE.jar
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/bean/AutoModelInfoRequestXML.java
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/bean/PremiumCalculation.java
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util/HrWxInterfaceClient.java
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util/JSONUtil.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util/LogpathPropertyDefiner.java
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/impl/GhCustomerClientServiceImpl.java
+
+Revision: 105864
+Author: shiyang_sinosoft
+Date: 2015年9月24日 11:23:34
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/index.html
+
+Revision: 105816
+Author: shiyang_sinosoft
+Date: 2015年9月24日 9:21:42
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/XmlSchema-1.4.5.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/activation-1.1.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/axiom-api-1.2.10.jar
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/axiom-api-1.2.13.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/axiom-impl-1.2.10.jar
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/axiom-impl-1.2.13.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/axis2-adb-1.5.4.jar
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/axis2-adb-1.6.2.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/axis2-adb-codegen-1.5.4.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/axis2-codegen-1.5.4.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/axis2-java2wsdl-1.5.4.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/axis2-kernel-1.5.4.jar
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/axis2-kernel-1.6.2.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/cxf-2.2.9.jar
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/cxf-2.6.8.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/neethi-2.0.4.jar
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/neethi-3.0.2.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/wstx-asl-3.2.9.jar
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/xmlschema-core-2.0.3.jar
+
+Revision: 105814
+Author: shiyang_sinosoft
+Date: 2015年9月24日 9:16:17
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/weblogic.xml
+
+Revision: 105813
+Author: shiyang_sinosoft
+Date: 2015年9月24日 9:15:54
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/login.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/filters.js
+
+Revision: 105811
+Author: shiyang_sinosoft
+Date: 2015年9月24日 9:14:46
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util/HrWxInterfaceClient.java
+
+Revision: 105655
+Author: chenghp_sinosoft
+Date: 2015年9月23日 9:37:03
+Message:
+账号
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/login.html
+
+Revision: 105538
+Author: chenghp_sinosoft
+Date: 2015年9月22日 13:12:01
+Message:
+页面调整
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/login.html
+
+Revision: 105537
+Author: shiyang_sinosoft
+Date: 2015年9月22日 13:07:52
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/cxtb.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/lpfw.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/wdcx.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/index.html
+
+Revision: 105531
+Author: shiyang_sinosoft
+Date: 2015年9月22日 12:05:19
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/login.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-controllers.js
+
+Revision: 105522
+Author: chenghp_sinosoft
+Date: 2015年9月22日 11:35:34
+Message:
+登陆
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/login.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/impl/GhCustomerClientServiceImpl.java
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/controller/GhCustomerClientController.java
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/GhCustomerClientService.java
+
+Revision: 105495
+Author: shiyang_sinosoft
+Date: 2015年9月22日 10:33:06
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/login.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-app.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-app.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-app.js
+
+Revision: 105469
+Author: shiyang_sinosoft
+Date: 2015年9月22日 9:18:22
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/controller/WxAuthenticationController.java
+
+Revision: 105294
+Author: shiyang_sinosoft
+Date: 2015年9月18日 17:09:38
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+
+Revision: 105293
+Author: shiyang_sinosoft
+Date: 2015年9月18日 17:01:01
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-controllers.js
+
+Revision: 105291
+Author: shiyang_sinosoft
+Date: 2015年9月18日 16:40:51
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/controller/WxAuthenticationController.java
+
+Revision: 105290
+Author: shiyang_sinosoft
+Date: 2015年9月18日 16:21:08
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/register.html
+
+Revision: 105275
+Author: chenghp_sinosoft
+Date: 2015年9月18日 15:50:40
+Message:
+流水号
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util/PrimaryGenerater.java
+
+Revision: 105273
+Author: chenghp_sinosoft
+Date: 2015年9月18日 15:48:42
+Message:
+注册
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/controller/GhCustomerClientController.java
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/register.html
+
+Revision: 105264
+Author: shiyang_sinosoft
+Date: 2015年9月18日 15:42:33
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-index.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/lpfw/lpfw-index.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-index.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/config.properties
+
+Revision: 105263
+Author: shiyang_sinosoft
+Date: 2015年9月18日 15:42:22
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-app.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-app.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-app.js
+
+Revision: 105262
+Author: shiyang_sinosoft
+Date: 2015年9月18日 15:42:09
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/register.html
+
+Revision: 105261
+Author: shiyang_sinosoft
+Date: 2015年9月18日 15:41:39
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/controller/WxAuthenticationController.java
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/index.html
+
+Revision: 105184
+Author: chenghp_sinosoft
+Date: 2015年9月18日 10:33:54
+Message:
+省列表请求位置
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-services.js
+
+Revision: 105095
+Author: chenghp_sinosoft
+Date: 2015年9月17日 15:14:46
+Message:
+省份选择套餐确认页面样式
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo1.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/admin.css
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-planConfirm.html
+
+Revision: 105067
+Author: shiyang_sinosoft
+Date: 2015年9月17日 14:19:19
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-supplementInfo.html
+
+Revision: 105066
+Author: shiyang_sinosoft
+Date: 2015年9月17日 14:19:04
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/scheduled
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/scheduled/TaskScheduled.java
+
+Revision: 105065
+Author: shiyang_sinosoft
+Date: 2015年9月17日 14:18:58
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/spring-mvc.xml
+
+Revision: 105037
+Author: chenghp_sinosoft
+Date: 2015年9月17日 10:25:09
+Message:
+零值过滤
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo1.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/filters.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-planConfirm.html
+
+Revision: 105003
+Author: chenghp_sinosoft
+Date: 2015年9月16日 19:23:13
+Message:
+页面长度
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo2.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo1.html
+
+Revision: 105002
+Author: shiyang_sinosoft
+Date: 2015年9月16日 19:21:06
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-payMoney.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-payMoney.html
+
+Revision: 104988
+Author: chenghp_sinosoft
+Date: 2015年9月16日 17:37:48
+Message:
+校验
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo2.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo1.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-app.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-choosePlan.html
+
+Revision: 104971
+Author: shiyang_sinosoft
+Date: 2015年9月16日 17:10:36
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-app.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-controllers.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/lpfw/lpfw-claimsSearch.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-orderList.html
+
+Revision: 104955
+Author: shiyang_sinosoft
+Date: 2015年9月16日 16:26:20
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-policyDetails.html
+
+Revision: 104954
+Author: shiyang_sinosoft
+Date: 2015年9月16日 16:26:07
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-orderDetails.html
+
+Revision: 104952
+Author: shiyang_sinosoft
+Date: 2015年9月16日 16:25:29
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-orderConfirm.html
+
+Revision: 104951
+Author: shiyang_sinosoft
+Date: 2015年9月16日 16:25:18
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-controllers.js
+
+Revision: 104950
+Author: shiyang_sinosoft
+Date: 2015年9月16日 16:24:32
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+
+Revision: 104949
+Author: shiyang_sinosoft
+Date: 2015年9月16日 16:24:19
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/impl/HrClientServiceImpl.java
+
+Revision: 104874
+Author: shiyang_sinosoft
+Date: 2015年9月16日 11:46:32
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-controllers.js
+
+Revision: 104847
+Author: shiyang_sinosoft
+Date: 2015年9月16日 10:21:07
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-controllers.js
+
+Revision: 104845
+Author: chenghp_sinosoft
+Date: 2015年9月16日 10:20:25
+Message:
+选择配置
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo1.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-planConfirm.html
+
+Revision: 104829
+Author: shiyang_sinosoft
+Date: 2015年9月16日 9:20:19
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-orderDetails.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-payMoney.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/impl/HrClientServiceImpl.java
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-orderList.html
+
+Revision: 104763
+Author: chenghp_sinosoft
+Date: 2015年9月15日 17:33:32
+Message:
+services.js
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+
+Revision: 104737
+Author: chenghp_sinosoft
+Date: 2015年9月15日 15:37:58
+Message:
+测算测试
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-services.js
+
+Revision: 104664
+Author: chenghp_sinosoft
+Date: 2015年9月15日 12:00:34
+Message:
+SS
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+
+Revision: 104662
+Author: chenghp_sinosoft
+Date: 2015年9月15日 11:28:36
+Message:
+传递参数调整
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo2.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo1.html
+
+Revision: 104598
+Author: chenghp_sinosoft
+Date: 2015年9月14日 18:51:06
+Message:
+空节点
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/bean/PremiumCalculation.java
+
+Revision: 104592
+Author: chenghp_sinosoft
+Date: 2015年9月14日 18:29:23
+Message:
+代码
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+
+Revision: 104590
+Author: chenghp_sinosoft
+Date: 2015年9月14日 18:23:14
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-services.js
+
+Revision: 104571
+Author: shiyang_sinosoft
+Date: 2015年9月14日 17:15:21
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+
+Revision: 104570
+Author: shiyang_sinosoft
+Date: 2015年9月14日 17:12:35
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/impl/HrClientServiceImpl.java
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/bean/AutoModelInfoRequestXML.java
+
+Revision: 104569
+Author: chenghp_sinosoft
+Date: 2015年9月14日 17:11:47
+Message:
+公用服务
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+
+Revision: 104568
+Author: chenghp_sinosoft
+Date: 2015年9月14日 17:10:00
+Message:
+改变报文
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-services.js
+
+Revision: 104560
+Author: chenghp_sinosoft
+Date: 2015年9月14日 16:21:56
+Message:
+证件号验证逻辑错误
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+
+Revision: 104535
+Author: chenghp_sinosoft
+Date: 2015年9月14日 15:02:04
+Message:
+删除假数据
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-services.js
+
+Revision: 104534
+Author: shiyang_sinosoft
+Date: 2015年9月14日 15:01:32
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/config.properties
+
+Revision: 104533
+Author: chenghp_sinosoft
+Date: 2015年9月14日 14:59:06
+Message:
+filter
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-orderConfirm.html
+
+Revision: 104532
+Author: chenghp_sinosoft
+Date: 2015年9月14日 14:56:47
+Message:
+提交
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo2.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo1.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-index.html
+
+Revision: 104503
+Author: chenghp_sinosoft
+Date: 2015年9月14日 10:52:05
+Message:
+删除debugger
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+
+Revision: 104496
+Author: shiyang_sinosoft
+Date: 2015年9月14日 10:31:57
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-payMoney.html
+
+Revision: 104490
+Author: chenghp_sinosoft
+Date: 2015年9月14日 10:13:23
+Message:
+页面校验
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo2.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo1.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-orderConfirm.html
+
+Revision: 104479
+Author: shiyang_sinosoft
+Date: 2015年9月14日 9:33:23
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/impl/HrClientServiceImpl.java
+
+Revision: 104475
+Author: shiyang_sinosoft
+Date: 2015年9月14日 9:20:40
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-payMoney.html
+
+Revision: 104474
+Author: shiyang_sinosoft
+Date: 2015年9月14日 9:20:17
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-controllers.js
+
+Revision: 104473
+Author: shiyang_sinosoft
+Date: 2015年9月14日 9:19:57
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-app.js
+
+Revision: 104444
+Author: shiyang_sinosoft
+Date: 2015年9月11日 17:10:58
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-orderDetails.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-policyDetails.html
+
+Revision: 104443
+Author: shiyang_sinosoft
+Date: 2015年9月11日 17:07:46
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-index.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/lpfw/lpfw-index.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-index.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/filters.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-orderList.html
+
+Revision: 104420
+Author: shiyang_sinosoft
+Date: 2015年9月11日 15:33:25
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo1.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-index.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/lpfw/lpfw-index.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-index.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-orderList.html
+
+Revision: 104419
+Author: shiyang_sinosoft
+Date: 2015年9月11日 15:33:11
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/admin.css
+
+Revision: 104418
+Author: shiyang_sinosoft
+Date: 2015年9月11日 15:31:51
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/impl/HrClientServiceImpl.java
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/HrClientService.java
+
+Revision: 104417
+Author: shiyang_sinosoft
+Date: 2015年9月11日 15:31:42
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/controller/HrClientController.java
+
+Revision: 104416
+Author: shiyang_sinosoft
+Date: 2015年9月11日 15:31:37
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/bean/AutoModelInfoRequestXML.java
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/bean/PremiumCalculation.java
+
+Revision: 104399
+Author: shiyang_sinosoft
+Date: 2015年9月11日 11:26:06
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-orderList.html
+
+Revision: 104381
+Author: shiyang_sinosoft
+Date: 2015年9月11日 9:57:53
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/filter
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/filter/CharacterEncodingFilter.java
+
+Revision: 104361
+Author: chenghp_sinosoft
+Date: 2015年9月10日 19:48:10
+Message:
+补充信息  套餐选择
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo2.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo1.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-supplementInfo.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-choosePlan.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-planConfirm.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-orderConfirm.html
+
+Revision: 104354
+Author: shiyang_sinosoft
+Date: 2015年9月10日 18:35:26
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-index.html
+
+Revision: 104353
+Author: shiyang_sinosoft
+Date: 2015年9月10日 18:35:20
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/lpfw/lpfw-index.html
+
+Revision: 104352
+Author: shiyang_sinosoft
+Date: 2015年9月10日 18:35:14
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-app.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-app.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-controllers.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-directives.min.js
+
+Revision: 104351
+Author: shiyang_sinosoft
+Date: 2015年9月10日 18:35:08
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-app.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-controllers.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-app.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-controllers.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-directives.min.js
+
+Revision: 104350
+Author: shiyang_sinosoft
+Date: 2015年9月10日 18:06:01
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-index.html
+
+Revision: 104349
+Author: shiyang_sinosoft
+Date: 2015年9月10日 18:05:56
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/lpfw/lpfw-index.html
+
+Revision: 104348
+Author: shiyang_sinosoft
+Date: 2015年9月10日 18:05:51
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-index.html
+
+Revision: 104347
+Author: shiyang_sinosoft
+Date: 2015年9月10日 18:05:47
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-app.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-app.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-directives.min.js
+
+Revision: 104346
+Author: shiyang_sinosoft
+Date: 2015年9月10日 18:05:41
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.min.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/common.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/common.min.js
+
+Revision: 104345
+Author: shiyang_sinosoft
+Date: 2015年9月10日 18:05:25
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/huarui.css
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/admin.min.css
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/huarui.min.css (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/huarui.css, Revision, 103653)
+
+Revision: 104296
+Author: shiyang_sinosoft
+Date: 2015年9月10日 15:12:28
+Message:
+
+----
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/controllers.js
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/filters.min.js
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.min.js
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/admin.min.css
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/filters.js
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/filter
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/common.min.js
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/gc-fileupload.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/gc-pagination.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/pdf-viewer.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/bootstrap-datepicker.css
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/bootstrap-datepicker.min.css
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/bootstrap-responsive.css
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/bootstrap-responsive.min.css
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/bootstrap-theme.css
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/bootstrap-theme.min.css
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/error
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/fonts
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/encrypt
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/app.js
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/app.min.js
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/directives.js
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/directives.min.js
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/run.js
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/boxsizing.htc
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/version.json
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/bak_cxtb-guid.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/bak_cxtb-index.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/bak_cxtb-orderConfirm.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/bak_cxtb-payMoney.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/bak_cxtb-supplementInfo.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/bak_wdcx-index.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/bak_wdcx-orderList.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/bak_wdcx-policyDetails.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/bak_wdcx-policySend.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/annotation
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/cm
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/http/CallBack.java
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/http/HttpHelper.java
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/http/RequestListener.java
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/http/reuqestListener
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/mail
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/sys
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util/HttpInfoUtil.java
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util/MailSender.java
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util/ReportUtil.java
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util/SystemDataUtil.java
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/entity
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/CommonService.java
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/impl/CommonServiceImpl.java
+
+Revision: 104287
+Author: shiyang_sinosoft
+Date: 2015年9月10日 14:29:19
+Message:
+
+----
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/rest
+
+Revision: 104286
+Author: shiyang_sinosoft
+Date: 2015年9月10日 14:29:12
+Message:
+
+----
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/bean/BaseViewObject.java
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/bean/FileBean.java
+
+Revision: 104191
+Author: shiyang_sinosoft
+Date: 2015年9月9日 17:16:17
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-payMoney.html
+
+Revision: 104190
+Author: shiyang_sinosoft
+Date: 2015年9月9日 17:16:10
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-orderDetails.html
+
+Revision: 104189
+Author: shiyang_sinosoft
+Date: 2015年9月9日 17:15:58
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-payMoney.html
+
+Revision: 104188
+Author: shiyang_sinosoft
+Date: 2015年9月9日 17:15:40
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-controllers.js
+
+Revision: 104187
+Author: shiyang_sinosoft
+Date: 2015年9月9日 17:15:20
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-controllers.js
+
+Revision: 104186
+Author: shiyang_sinosoft
+Date: 2015年9月9日 17:15:10
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+
+Revision: 104154
+Author: shiyang_sinosoft
+Date: 2015年9月9日 14:57:27
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+
+Revision: 104056
+Author: chenghp_sinosoft
+Date: 2015年9月8日 18:33:05
+Message:
+页面绑定模型
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo2.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo1.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-choosePlan.html
+
+Revision: 104038
+Author: shiyang_sinosoft
+Date: 2015年9月8日 16:56:00
+Message:
+
+----
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx
+
+Revision: 104037
+Author: shiyang_sinosoft
+Date: 2015年9月8日 16:55:09
+Message:
+
+----
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb
+
+Revision: 104034
+Author: shiyang_sinosoft
+Date: 2015年9月8日 16:48:16
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/lpfw (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/lpfw, Revision, 104020)
+
+Revision: 104033
+Author: shiyang_sinosoft
+Date: 2015年9月8日 16:48:08
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb, Revision, 101520)
+Replacing : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo2.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-basicInfo2.html, Revision, 103651)
+Replacing : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-basicInfo1.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-basicInfo1.html, Revision, 103651)
+Replacing : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-payMoney.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-payMoney.html, Revision, 104019)
+Replacing : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-index.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-index.html, Revision, 104019)
+Replacing : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-supplementInfo.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-supplementInfo.html, Revision, 103719)
+Replacing : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-choosePlan.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-choosePlan.html, Revision, 103613)
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-planConfirm.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-planConfirm.html, Revision, 103604)
+Replacing : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-orderConfirm.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-orderConfirm.html, Revision, 104019)
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/bak_cxtb-guid.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/bak_cxtb-guid.html, Revision, 103496)
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/bak_cxtb-index.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/bak_cxtb-index.html, Revision, 103496)
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/bak_cxtb-orderConfirm.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/bak_cxtb-orderConfirm.html, Revision, 103604)
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/bak_cxtb-payMoney.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/bak_cxtb-payMoney.html, Revision, 103604)
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/bak_cxtb-supplementInfo.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/bak_cxtb-supplementInfo.html, Revision, 103556)
+Replacing : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-guid.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-guid.html, Revision, 103547)
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/cxtb/cxtb-submitSuccess.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-submitSuccess.html, Revision, 103604)
+
+Revision: 104032
+Author: shiyang_sinosoft
+Date: 2015年9月8日 16:47:53
+Message:
+
+----
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/bak_wdcx-index.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/bak_wdcx-orderList.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/bak_wdcx-policyDetails.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/bak_wdcx-policySend.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-index.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-orderDetails.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-orderList.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-payMoney.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-policyDetails.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-policySend.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-submitSuccess.html
+
+Revision: 104031
+Author: shiyang_sinosoft
+Date: 2015年9月8日 16:47:44
+Message:
+
+----
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/lpfw
+
+Revision: 104030
+Author: shiyang_sinosoft
+Date: 2015年9月8日 16:47:34
+Message:
+
+----
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/bak_cxtb-guid.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/bak_cxtb-index.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/bak_cxtb-orderConfirm.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/bak_cxtb-payMoney.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/bak_cxtb-supplementInfo.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-basicInfo1.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-basicInfo2.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-choosePlan.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-guid.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-index.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-orderConfirm.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-payMoney.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-planConfirm.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-submitSuccess.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-supplementInfo.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-main.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-selectConfig.html
+
+Revision: 104029
+Author: shiyang_sinosoft
+Date: 2015年9月8日 16:46:43
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/index.html
+
+Revision: 104028
+Author: shiyang_sinosoft
+Date: 2015年9月8日 16:46:35
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx, Revision, 101520)
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-orderDetails.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-orderDetails.html, Revision, 104021)
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-payMoney.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-payMoney.html, Revision, 104021)
+Replacing : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-index.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-index.html, Revision, 104021)
+Replacing : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-orderList.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-orderList.html, Revision, 104021)
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-policyDetails.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-policyDetails.html, Revision, 104021)
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/bak_wdcx-index.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/bak_wdcx-index.html, Revision, 103605)
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/bak_wdcx-orderList.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/bak_wdcx-orderList.html, Revision, 104021)
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/bak_wdcx-policyDetails.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/bak_wdcx-policyDetails.html, Revision, 104021)
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/bak_wdcx-policySend.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/bak_wdcx-policySend.html, Revision, 104021)
+Replacing : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-policySend.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-policySend.html, Revision, 104021)
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-submitSuccess.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-submitSuccess.html, Revision, 104021)
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/pages/wdcx/wdcx-viewDetails.html
+
+Revision: 104026
+Author: shiyang_sinosoft
+Date: 2015年9月8日 16:40:22
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-app.js
+
+Revision: 104025
+Author: shiyang_sinosoft
+Date: 2015年9月8日 16:39:58
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-app.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-controllers.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/lpfw/lpfw-directives.js
+
+Revision: 104024
+Author: shiyang_sinosoft
+Date: 2015年9月8日 16:39:53
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-app.js
+
+Revision: 104023
+Author: shiyang_sinosoft
+Date: 2015年9月8日 16:39:14
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/common.js
+
+Revision: 104022
+Author: shiyang_sinosoft
+Date: 2015年9月8日 16:38:18
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/admin.css
+
+Revision: 104021
+Author: shiyang_sinosoft
+Date: 2015年9月8日 16:38:00
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/bak_wdcx-orderList.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/bak_wdcx-policyDetails.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-viewDetails.html, Revision, 103496)
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/bak_wdcx-policySend.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-policySend.html, Revision, 103496)
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-index.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-orderDetails.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-orderList.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-payMoney.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-policyDetails.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-policySend.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-submitSuccess.html
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-viewDetails.html
+
+Revision: 104020
+Author: shiyang_sinosoft
+Date: 2015年9月8日 16:37:44
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/lpfw
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/lpfw/lpfw-guid.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/lpfw/lpfw-index.html
+
+Revision: 104019
+Author: shiyang_sinosoft
+Date: 2015年9月8日 16:37:36
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-index.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-orderConfirm.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-payMoney.html
+
+Revision: 104018
+Author: shiyang_sinosoft
+Date: 2015年9月8日 16:37:27
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/index.html
+
+Revision: 104017
+Author: shiyang_sinosoft
+Date: 2015年9月8日 16:37:17
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/impl/HrClientServiceImpl.java
+
+Revision: 104016
+Author: shiyang_sinosoft
+Date: 2015年9月8日 16:37:13
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/HrClientService.java
+
+Revision: 104015
+Author: shiyang_sinosoft
+Date: 2015年9月8日 16:37:04
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/controller/HrClientController.java
+
+Revision: 103728
+Author: shiyang_sinosoft
+Date: 2015年9月6日 16:34:15
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-index.html
+
+Revision: 103721
+Author: shiyang_sinosoft
+Date: 2015年9月6日 16:25:52
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+
+Revision: 103719
+Author: shiyang_sinosoft
+Date: 2015年9月6日 16:22:59
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-index.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-supplementInfo.html
+
+Revision: 103695
+Author: chenghp_sinosoft
+Date: 2015年9月6日 15:15:38
+Message:
+页面刷新
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/common.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-index.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/jquery.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/jquery.mobile-1.3.0.min.js
+
+Revision: 103653
+Author: chenghp_sinosoft
+Date: 2015年9月6日 10:15:07
+Message:
+日期css
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/mobiscroll.custom-2.5.0.min.css
+
+Revision: 103652
+Author: shiyang_sinosoft
+Date: 2015年9月6日 10:11:27
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-app.js
+
+Revision: 103651
+Author: chenghp_sinosoft
+Date: 2015年9月6日 10:05:30
+Message:
+日期组件
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-index.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/jquery-2.1.4.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/jquery.mobile-1.4.5.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/mobiscroll.custom-2.5.0.min.js
+
+Revision: 103619
+Author: chenghp_sinosoft
+Date: 2015年9月2日 17:54:56
+Message:
+基本信息1 基本信息2
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-basicInfo1.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-basicInfo2.html
+
+Revision: 103614
+Author: shiyang_sinosoft
+Date: 2015年9月2日 17:13:00
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-index.html
+
+Revision: 103613
+Author: shiyang_sinosoft
+Date: 2015年9月2日 17:11:41
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-choosePlan.html
+
+Revision: 103609
+Author: shiyang_sinosoft
+Date: 2015年9月2日 16:24:36
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-controllers.js
+
+Revision: 103607
+Author: shiyang_sinosoft
+Date: 2015年9月2日 16:20:59
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-app.js
+
+Revision: 103606
+Author: shiyang_sinosoft
+Date: 2015年9月2日 16:20:53
+Message:
+
+----
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/main.js
+
+Revision: 103605
+Author: shiyang_sinosoft
+Date: 2015年9月2日 16:20:47
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/bak_wdcx-index.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-index.html, Revision, 103496)
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-index.html
+
+Revision: 103604
+Author: shiyang_sinosoft
+Date: 2015年9月2日 16:20:37
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/bak_cxtb-orderConfirm.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-orderConfirm.html, Revision, 101520)
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/bak_cxtb-payMoney.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-payMoney.html, Revision, 101520)
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-choosePlan.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-orderConfirm.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-payMoney.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-planConfirm.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-submitSuccess.html
+
+Revision: 103597
+Author: shiyang_sinosoft
+Date: 2015年9月2日 15:40:54
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/step_4.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/jiandown.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/jianup.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/success.png
+
+Revision: 103595
+Author: chenghp_sinosoft
+Date: 2015年9月2日 15:39:36
+Message:
+信息1
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-app.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-basicInfo1.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-index.html
+
+Revision: 103587
+Author: shiyang_sinosoft
+Date: 2015年9月2日 15:13:07
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/huarui.css
+
+Revision: 103572
+Author: shiyang_sinosoft
+Date: 2015年9月2日 14:35:08
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-index.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-supplementInfo.html
+
+Revision: 103571
+Author: shiyang_sinosoft
+Date: 2015年9月2日 14:35:02
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/huarui.css
+
+Revision: 103570
+Author: shiyang_sinosoft
+Date: 2015年9月2日 14:34:54
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+
+Revision: 103556
+Author: shiyang_sinosoft
+Date: 2015年9月2日 11:48:12
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/bak_cxtb-supplementInfo.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-supplementInfo.html, Revision, 101520)
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-index.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-supplementInfo.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/main.js
+
+Revision: 103555
+Author: shiyang_sinosoft
+Date: 2015年9月2日 11:37:15
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/admin.css
+
+Revision: 103554
+Author: shiyang_sinosoft
+Date: 2015年9月2日 11:37:08
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-index.html
+
+Revision: 103549
+Author: shiyang_sinosoft
+Date: 2015年9月2日 11:13:52
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-index.html
+
+Revision: 103547
+Author: shiyang_sinosoft
+Date: 2015年9月2日 11:12:40
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-guid.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-index.html
+
+Revision: 103496
+Author: shiyang_sinosoft
+Date: 2015年9月1日 16:56:30
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/huarui.css
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/step_1.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/step_2.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/step_3.png
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-app.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-app.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/admin.css
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/common.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/bootstrap-theme.css
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/bootstrap-theme.min.css
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/bak_cxtb-guid.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-guid.html, Revision, 101520)
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/bak_cxtb-index.html (Copy from path: /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-index.html, Revision, 101520)
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-basicInfo1.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-guid.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-index.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-index.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-orderList.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-policySend.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-viewDetails.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/bootstrap.css
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/bootstrap.min.css
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/arrow.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/arrow_left.png
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/basicTop.png
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/basicTop2.png
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/btn-no.png
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/btn-yes.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/btn_toubao.png
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/closeBtn.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/dan_kuang.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/date_icon.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/fuceng.png
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/ghcx.gif
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/goBack.png
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/goSelectConfig.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/gou.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/gou_kuang.png
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/guidDot.png
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/headbg.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/jq_line.png
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/loading.gif
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/maibuzhou.png
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/off.gif
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/on.gif
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/openBtn.png
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/orderConfirmTop.png
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/pacx.gif
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/sanjiao.png
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/smallLab.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/step1.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/step2.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/step3.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/step4.png
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/supplementTop.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/sy_line.png
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/tableHelperImg.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/tip_wenhao.png
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/bootstrap.min.js
+
+Revision: 103242
+Author: shiyang_sinosoft
+Date: 2015年8月28日 9:33:15
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+
+Revision: 103159
+Author: chenghp_sinosoft
+Date: 2015年8月27日 14:40:14
+Message:
+json2xml
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/impl/HrClientServiceImpl.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/bean/PremiumCalculation.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/xom-1.2.5.jar
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/bean/premiumCalculation
+
+Revision: 103113
+Author: chenghp_sinosoft
+Date: 2015年8月27日 10:32:57
+Message:
+车辆信息  保费测算
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/impl/HrClientServiceImpl.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/bean/AutoModelInfoRequestXML.java
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/HrClientService.java
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/controller/HrClientController.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/bean/premiumCalculation
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/bean/Custom.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/bean/ItoXml.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/bean/premiumCalculation/PremiumCalculation.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/bean/premiumCalculation/Vehicle.java
+
+Revision: 103100
+Author: chenghp_sinosoft
+Date: 2015年8月27日 9:46:06
+Message:
+车险投保js
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-basicInfo2.html
+
+Revision: 103068
+Author: shiyang_sinosoft
+Date: 2015年8月26日 17:09:21
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/controller/HrClientController.java
+
+Revision: 103067
+Author: shiyang_sinosoft
+Date: 2015年8月26日 17:09:16
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/HrClientService.java
+
+Revision: 103065
+Author: shiyang_sinosoft
+Date: 2015年8月26日 17:09:11
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/impl/HrClientServiceImpl.java
+
+Revision: 103063
+Author: shiyang_sinosoft
+Date: 2015年8月26日 17:09:05
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-orderList.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-policySend.html
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-viewDetails.html
+
+Revision: 103062
+Author: shiyang_sinosoft
+Date: 2015年8月26日 17:09:00
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-app.js
+
+Revision: 102940
+Author: shiyang_sinosoft
+Date: 2015年8月25日 16:03:13
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+
+Revision: 102939
+Author: shiyang_sinosoft
+Date: 2015年8月25日 16:03:08
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-basicInfo1.html
+
+Revision: 102938
+Author: shiyang_sinosoft
+Date: 2015年8月25日 16:03:02
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/impl/HrClientServiceImpl.java
+
+Revision: 102937
+Author: shiyang_sinosoft
+Date: 2015年8月25日 16:02:56
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/HrClientService.java
+
+Revision: 102936
+Author: shiyang_sinosoft
+Date: 2015年8月25日 16:02:48
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/controller/HrClientController.java
+
+Revision: 102935
+Author: shiyang_sinosoft
+Date: 2015年8月25日 16:01:43
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util/JSONUtil.java
+
+Revision: 102934
+Author: shiyang_sinosoft
+Date: 2015年8月25日 16:01:28
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util/HrWxInterfaceClient.java
+
+Revision: 102899
+Author: tongzl
+Date: 2015年8月25日 13:34:39
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/需求相关材料/华瑞微信投保流程.vsd
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/需求相关材料/文档-webservice-华瑞微信接口.doc
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/需求相关材料/文档-webservice接口修改.doc
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/需求相关材料/页面微调建议.doc
+
+Revision: 102898
+Author: tongzl
+Date: 2015年8月25日 13:33:48
+Message:
+文档上传
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保 20150804
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保 20150804/1-2、导引页.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保 20150804/1-3-1、填表小助手.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保 20150804/1-3、基本信息1.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保 20150804/1-4、基本信息2.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保 20150804/1-5、套餐选择.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保 20150804/1-6、补充信息.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保 20150804/1-7、订单确认.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保 20150804/1-9、支付成功.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保 20150804/1、车险菜单入口.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保 20150804/2-1、保单列表.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保 20150804/2-2、查看保单.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保 20150804/2-3、保单寄送.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保 20150804/2、车险保单服务.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保 20150804/3-2、理赔服务.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保 20150804/3、个人中心-理赔信息.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保系统设计稿0821
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保系统设计稿0821/保单-1-车险保单列表.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保系统设计稿0821/保单-2-保单详情.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保系统设计稿0821/保单-3-车险订单列表.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保系统设计稿0821/保单-4-寄送地址详情.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保系统设计稿0821/保单-5-车险理赔服务信息.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保系统设计稿0821/投保流程-1-车险投保引导.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保系统设计稿0821/投保流程-2-1填写车辆信息.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保系统设计稿0821/投保流程-2-2填写车辆信息助手.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保系统设计稿0821/投保流程-3-1填写投保人相关信息.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保系统设计稿0821/投保流程-3-2补充信息.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保系统设计稿0821/投保流程-4-1选择车险套餐.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保系统设计稿0821/投保流程-4-2保费测算确认.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保系统设计稿0821/投保流程-6-投保信息和订单确认.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保系统设计稿0821/投保流程-7-填写支付信息.jpg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型/车险投保系统设计稿0821/投保流程-8-提交成功核保及支付信息.jpg
+
+Revision: 102741
+Author: shiyang_sinosoft
+Date: 2015年8月24日 14:28:04
+Message:
+
+----
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/XmlSchema-1.4.7.jar
+
+Revision: 102740
+Author: shiyang_sinosoft
+Date: 2015年8月24日 14:27:36
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/config.properties
+
+Revision: 102739
+Author: shiyang_sinosoft
+Date: 2015年8月24日 14:27:24
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+
+Revision: 102738
+Author: shiyang_sinosoft
+Date: 2015年8月24日 14:27:15
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/impl/GhCustomerClientServiceImpl.java
+
+Revision: 102737
+Author: shiyang_sinosoft
+Date: 2015年8月24日 14:27:06
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/controller/GhCustomerClientController.java
+
+Revision: 102736
+Author: shiyang_sinosoft
+Date: 2015年8月24日 14:25:59
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util/HrWxInterfaceClient.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util/ConfigPropertiesUtil.java
+
+Revision: 102633
+Author: shiyang_sinosoft
+Date: 2015年8月21日 18:21:27
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-app.js
+
+Revision: 102632
+Author: shiyang_sinosoft
+Date: 2015年8月21日 18:21:18
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+
+Revision: 102631
+Author: shiyang_sinosoft
+Date: 2015年8月21日 18:20:10
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/axiom-api-1.2.13.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/axiom-impl-1.2.13.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/axis2-adb-1.6.2.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/axis2-kernel-1.6.2.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/XmlSchema-1.4.7.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/axis2-transport-http-1.6.2.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/axis2-transport-local-1.6.2.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/commons-codec-1.3.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/commons-httpclient-3.1.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/httpcore-4.0.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/mail-1.4.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/wsdl4j-1.6.2.jar
+
+Revision: 102630
+Author: shiyang_sinosoft
+Date: 2015年8月21日 18:19:16
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/impl/GhCustomerClientServiceImpl.java
+
+Revision: 102629
+Author: shiyang_sinosoft
+Date: 2015年8月21日 18:19:07
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/GhCustomerClientService.java
+
+Revision: 102628
+Author: shiyang_sinosoft
+Date: 2015年8月21日 18:18:58
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/controller/GhCustomerClientController.java
+
+Revision: 102627
+Author: shiyang_sinosoft
+Date: 2015年8月21日 18:18:27
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util/HrWxInterfaceClient.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util/MD5Util.java
+
+Revision: 102626
+Author: shiyang_sinosoft
+Date: 2015年8月21日 18:18:17
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/spring-mvc.xml
+
+Revision: 102441
+Author: shiyang_sinosoft
+Date: 2015年8月20日 16:32:55
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+
+Revision: 102439
+Author: shiyang_sinosoft
+Date: 2015年8月20日 16:32:32
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/controller/GhCustomerClientController.java
+
+Revision: 102438
+Author: shiyang_sinosoft
+Date: 2015年8月20日 16:31:43
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util/JSONUtil.java
+
+Revision: 102436
+Author: shiyang_sinosoft
+Date: 2015年8月20日 16:31:25
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/bean/Custom.java
+
+Revision: 102388
+Author: chenghp_sinosoft
+Date: 2015年8月20日 14:40:05
+Message:
+controller
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/controller/GhCustomerClientController.java
+
+Revision: 102387
+Author: chenghp_sinosoft
+Date: 2015年8月20日 14:39:37
+Message:
+页面js
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-app.js
+
+Revision: 102386
+Author: chenghp_sinosoft
+Date: 2015年8月20日 14:37:22
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util/JSONUtil.java
+
+Revision: 102385
+Author: chenghp_sinosoft
+Date: 2015年8月20日 14:36:06
+Message:
+web.xml filter
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/web.xml
+
+Revision: 102306
+Author: shiyang_sinosoft
+Date: 2015年8月20日 9:32:12
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/impl/GhCustomerClientServiceImpl.java
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/controller/GhCustomerClientController.java
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/GhCustomerClientService.java
+
+Revision: 102302
+Author: shiyang_sinosoft
+Date: 2015年8月20日 9:20:03
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/gh-customer-client-1.0-20150626.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/gh-edb-customer-1.0-20150624.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/gh-platform-dto-1.1.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/gh-util-lock-1.0-20150423.jar
+
+Revision: 102301
+Author: shiyang_sinosoft
+Date: 2015年8月20日 9:19:12
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/web.xml
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/config.properties
+
+Revision: 102300
+Author: shiyang_sinosoft
+Date: 2015年8月20日 9:18:57
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-app.js
+
+Revision: 102298
+Author: shiyang_sinosoft
+Date: 2015年8月20日 9:18:45
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-app.js
+
+Revision: 102297
+Author: shiyang_sinosoft
+Date: 2015年8月20日 9:18:12
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+
+Revision: 102296
+Author: shiyang_sinosoft
+Date: 2015年8月20日 9:17:15
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/controller
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/impl/GhCustomerClientServiceImpl.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/controller/GhCustomerClientController.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/GhCustomerClientService.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/entity
+
+Revision: 102295
+Author: shiyang_sinosoft
+Date: 2015年8月20日 9:16:58
+Message:
+
+----
+Modified : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util/JSONUtil.java
+
+Revision: 102294
+Author: shiyang_sinosoft
+Date: 2015年8月20日 9:16:46
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/spring-mvc.xml
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/applicationContext-service.xml
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/applicationContext.xml
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/logback.xml
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/sysdata.ini
+
+Revision: 102291
+Author: shiyang_sinosoft
+Date: 2015年8月20日 9:14:31
+Message:
+
+----
+Deleted : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/a-dataSource.xml
+
+Revision: 101874
+Author: tongzl
+Date: 2015年8月17日 17:02:13
+Message:
+会议纪要文档上传
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/需求会议纪要/会议纪要-华瑞车险-接口讨论2015-08-17.doc
+
+Revision: 101520
+Author: shiyang_sinosoft
+Date: 2015年8月13日 10:58:23
+Message:
+项目初次提交
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/web.xml
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-controllers.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-controllers.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/controllers.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-app.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-app.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/filters.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/services.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/admin.css
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/admin.min.css
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/spring-web-3.0.7.RELEASE.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/impl
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/bean
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util/JSONUtil.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/index.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/cxf-2.6.8.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/neethi-3.0.2.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/xmlschema-core-2.0.3.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/filters.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/filter
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/filter/CharacterEncodingFilter.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/common.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/common.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/gc-fileupload.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/gc-pagination.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/pdf-viewer.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/bootstrap-datepicker.css
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/bootstrap-datepicker.min.css
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/bootstrap-responsive.css
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/bootstrap-responsive.min.css
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/bootstrap-theme.css
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/bootstrap-theme.min.css
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/error
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/fonts
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/encrypt
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/app.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/app.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/directives.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/directives.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/run.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/boxsizing.htc
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/version.json
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/annotation
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/cm
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/http
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/http/CallBack.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/http/HttpHelper.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/http/RequestListener.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/http/reuqestListener
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/mail
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/sys
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util/HttpInfoUtil.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util/MailSender.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util/ReportUtil.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util/SystemDataUtil.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/CommonService.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/service/impl/CommonServiceImpl.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/rest
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/bean/BaseViewObject.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/bean/FileBean.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-basicInfo1.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-basicInfo2.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-choosePlan.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-guid.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-index.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-orderConfirm.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-payMoney.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-supplementInfo.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-index.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-orderList.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-policySend.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-main.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/cxtb/cxtb-selectConfig.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/common/wdcx/wdcx-viewDetails.html
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/bootstrap.css
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/css/bootstrap.min.css
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/basicTop.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/basicTop2.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/btn-no.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/btn-yes.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/closeBtn.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/ghcx.gif
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/goBack.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/goSelectConfig.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/guidDot.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/headbg.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/loading.gif
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/off.gif
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/on.gif
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/openBtn.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/orderConfirmTop.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/pacx.gif
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/smallLab.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/supplementTop.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/images/tableHelperImg.png
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/bootstrap.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/applicationContext-service.xml
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/applicationContext.xml
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/logback.xml
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/sysdata.ini
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/a-dataSource.xml
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/.classpath
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/.externalToolBuilders
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/.externalToolBuilders/org.eclipse.wst.jsdt.core.javascriptValidator.launch
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/.project
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/.settings
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/.settings/.jsdtscope
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/.settings/org.eclipse.core.resources.prefs
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/.settings/org.eclipse.jdt.core.prefs
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/.settings/org.eclipse.jst.ws.cxf.core.prefs
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/.settings/org.eclipse.wst.common.component
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/.settings/org.eclipse.wst.common.project.facet.core.xml
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/.settings/org.eclipse.wst.jsdt.ui.superType.container
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/.settings/org.eclipse.wst.jsdt.ui.superType.name
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/META-INF
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/META-INF/MANIFEST.MF
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/classes
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/SunCFSTransClient .jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/ant-1.6.5.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/antlr-2.7.7.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/barcode4j-2.0.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/batik-anim.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/batik-awt-util.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/batik-bridge.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/batik-css.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/batik-dom.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/batik-ext.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/batik-gvt.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/batik-parser.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/batik-script.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/batik-svg-dom.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/batik-svggen.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/batik-util.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/batik-xml.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/bouncycastle.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/c3p0-0.9.2.1.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/c3p0-oracle-thin-extras-0.9.2.1.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/com.generalirest.bean.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/com.springsource.com.thoughtworks.xstream-1.3.1.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/com.springsource.org.aopalliance-1.0.0.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/com.springsource.org.aspectj.runtime-1.7.1.RELEASE.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/com.springsource.org.aspectj.weaver-1.7.1.RELEASE.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/commons-beanutils-1.7.0.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/commons-codec-1.6.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/commons-collections-3.2.1.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/commons-digester-1.8.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/commons-email-1.2.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/commons-fileupload-1.2.1.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/commons-io-1.4.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/commons-lang-2.6.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/commons-net-ftp-2.0.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/dom4j-1.6.1.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/ejb3-persistence.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/ezmorph.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/fileupload.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/fluent-hc-4.2.5.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/geronimo-annotation_1.0_spec-1.1.1.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/geronimo-jaxws_2.2_spec-1.1.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/geronimo-stax-api_1.0_spec-1.0.1.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/geronimo-ws-metadata_2.0_spec-1.1.3.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/groovy-all-1.5.1.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/hibernate-annotations.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/hibernate-cglib-repack-2.1_3.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/hibernate-commons-annotations.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/hibernate-entitymanager.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/hibernate3.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/httpclient-4.2.5.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/httpclient-cache-4.2.5.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/httpcore-4.2.4.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/httpmime-4.2.5.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/iText-2.1.0.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/iTextAsian.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/iTextAsianCmaps.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/jackson-core-asl-1.8.5.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/jackson-mapper-asl-1.8.5.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/jasperreports-3.7.1.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/jasperreports-applet-3.7.1.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/jasperreports-fonts-3.7.1.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/jasperreports-javaflow-3.7.1.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/javassist-3.15.0-GA.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/jaxb-api-2.2.5.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/jaxb-impl-2.2.5.1.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/jerrytools1.0.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/jettison-1.3.3.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/json-lib-2.3-jdk15.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/json-lib.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/json-rpc-1.0.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/jsr311-api-1.1.1.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/jstl-1.2-sources.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/jstl-1.2.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/jta-1.1.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/logback-access-0.9.30.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/logback-classic-0.9.30.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/logback-core-0.9.30.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/mail.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/mchange-commons-java-0.2.3.4.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/ojdbc14.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/open189-sign-1.0.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/oracle.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/org.springframework.aspects-3.1.0.RELEASE.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/org.springframework.jdbc-3.0.7.RELEASE.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/org.springframework.orm-3.0.7.RELEASE.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/org.springframework.oxm-3.0.7.RELEASE.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/org.springframework.transaction-3.0.7.RELEASE.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/org.springframework.web-3.0.7.RELEASE.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/org.springframework.web.portlet-3.0.7.RELEASE.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/org.springframework.web.servlet-3.0.7.RELEASE.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/poi.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/quartz-all-1.7.3.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/sinosoft.encrypt.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/slf4j-api-1.7.2.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/spring-aop-3.0.7.RELEASE.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/spring-asm-3.0.7.RELEASE.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/spring-beans-3.0.7.RELEASE.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/spring-context-3.0.7.RELEASE.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/spring-core-3.0.7.RELEASE.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/spring-expression-3.0.7.RELEASE.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/spring-jms-3.0.7.RELEASE.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/spring-tx-3.0.7.RELEASE.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/stax2-api-3.1.1.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/woodstox-core-asl-4.2.0.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/wsdl4j-1.6.3.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/WEB-INF/lib/xml-apis-ext.jar
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/fonts/glyphicons-halflings-regular.eot
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/fonts/glyphicons-halflings-regular.svg
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/fonts/glyphicons-halflings-regular.ttf
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/fonts/glyphicons-halflings-regular.woff
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/fonts/glyphicons-regular.ttf
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/encrypt/core-min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/encrypt/enc-base64-min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/encrypt/hmac-sha1.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/cxtb/cxtb-directives.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/gcgroup/wdcx/wdcx-directives.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/FileAPI.flash.swf
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/FileAPI.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/FileAPI.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular-animate.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular-animate.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular-cookies.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular-cookies.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular-file-upload-html5-shim.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular-file-upload-html5-shim.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular-file-upload-shim.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular-file-upload-shim.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular-file-upload.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular-file-upload.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular-loader.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular-loader.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular-mobile.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular-mobile.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular-mocks.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular-resource.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular-resource.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular-route.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular-route.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular-sanitize.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular-sanitize.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular-scenario.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular-strap.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular-strap.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular-touch.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular-touch.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/angular.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/bootstrap-datepicker.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/bootstrap-datepicker.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/bootstrap-filestyle.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/bootstrap-filestyle.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/bootstrap.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/excanvas.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/excanvas.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/flotr2.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/flotr2.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/html5shiv.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/html5shiv.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/ie8-responsive-file-warning.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/jquery-1.8.2.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/json2.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/modernizr-2.6.2.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/pdf.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/pdf.worker.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/placeholder_polyfill.jquery.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/libs/respond.min.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/plugins
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/plugins/coffee
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/plugins/coffee/jquery.modals.coffee
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/plugins/coffee/jquery.popover.coffee
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/plugins/coffee/jquery.popover.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/plugins/coffee/jquery.responsiveTables.coffee
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/plugins/coffee/jquery.responsiveTables.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/plugins/coffee/jquery.responsiveText.coffee
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/plugins/coffee/jquery.responsiveText.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/plugins/coffee/jquery.tooltip.coffee
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/plugins/coffee/jquery.tooltip.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/plugins/jquery.modals.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/plugins/jquery.orbit-1.4.0.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/plugins/jquery.popover.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/plugins/jquery.responsiveTables.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/plugins/jquery.responsiveText.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/js/plugins/jquery.tooltip.js
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss/_buttons.scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss/_callouts.scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss/_font-awesome.scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss/_forms.scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss/_global.scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss/_grid.scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss/_layout.scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss/_messages.scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss/_mixins.scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss/_mobile-reset.scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss/_modals.scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss/_navigation.scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss/_orbit.scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss/_popovers.scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss/_reset.scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss/_responsive.scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss/_social-icons.scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss/_tables.scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss/_tabs.scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss/_tooltips.scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss/_typography.scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss/_ui-elements.scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss/_variables.scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss/_webfonts.scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss/groundwork-ie.scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss/groundwork.scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/WebContent/scss/no-svg.scss
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/annotation/Encrypt.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/cm/FileUtil.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/http/reuqestListener/DefaultRequestListener.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/mail/MailSender.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/mail/MailSenderBuilder.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/sys/CheckCodeFactory.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/sys/EbnspProvider.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/sys/EncryptSensitive.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/sys/EncryptSensitiveBack.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/sys/EncryptWithHmacSHA1.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/sys/EncryptWithMD5.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/sys/IdGenerater.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/sys/SpringContextHolder.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/sys/TokenFactory.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/sys/VerifyCodeGenerater.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/common/util/Validater.java
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx/src/com/ebnsp/rest/CommonRestService.java
+
+Revision: 101519
+Author: shiyang_sinosoft
+Date: 2015年8月13日 10:48:34
+Message:
+初始导入。
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/ghwx
+
+Revision: 100571
+Author: tongzl
+Date: 2015年7月31日 16:06:37
+Message:
+
+----
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/需求相关材料
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/页面原型
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/需求会议纪要
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/需求会议纪要/~WRL3427.tmp
+Added : /S40华瑞电商/01开发区/01产品文档/01需求分析/华瑞车险/需求会议纪要/会议纪要-华瑞车险-接口讨论2015-07-31.doc
+

@@ -1,0 +1,37 @@
+		//同意保险约定声明选项
+		$(".rightSheng").click(function(){
+			(function (){
+				$(".yuan").toggleClass("yuancur");
+				$(".rightSheng").toggleClass('hui');
+				$(".next").toggleClass('hui');
+			})()
+			
+	
+			if($(".yuan").hasClass("yuancur")){
+				$scope.goNext = function(){
+				}
+			}
+			else{
+				$scope.goNext = function(){
+				$rootScope.messagePremiumCalculation.Vehicle=set$rootScope($scope);
+				$location.path("/choosePlan");
+			}
+			}
+//			$(".rightSheng").addClass('hui');
+//			$(".yuan").toggleClass("yuancur");
+//			$(".yuan").toggleClass("yuancur");
+//			if($(".yuan").hasClass("yuancur")){
+//			 	$(".rightSheng").addClass('hui');
+//			 	$(".next").addClass('hui');
+//				$scope.goNext = function(){
+//				}
+//			}else{
+//			 	$(".rightSheng").removeClass('hui');
+//			 	$(".next").removeClass('hui');
+//				$scope.goNext = function(){
+//					$rootScope.messagePremiumCalculation.Vehicle=set$rootScope($scope);
+//					$location.path("/choosePlan");
+//				}
+//			}
+
+		});

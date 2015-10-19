@@ -1,9 +1,8 @@
-var request = require('request');
+﻿var request = require('request');
 var cheerio = require('cheerio');
 var crawler = require('./crawler');
-//拉钩网请求地址
-var url='http://www.lagou.com/jobs/positionAjax.json?city=%E5%8C%97%E4%BA%AC';
-function getInfo(url, data){
+//post请求数据
+function getInfo(url, data,p){
 	
 request.post({url:url, formData: data}, function optionalCallback(err, httpResponse, body) {
   if (err) {
@@ -11,7 +10,7 @@ request.post({url:url, formData: data}, function optionalCallback(err, httpRespo
   }
   //console.log('Upload successful!  Server responded with:', body);
    
-         parseIds(body.toString())
+         p(body.toString())
 
  
 });	
@@ -31,12 +30,15 @@ var counts=1;
 //拉钩网java工作要求
 function parseJobRequire (html){
   var  $ = cheerio.load(html);
-  var jobRequire = $('.job_bt');
-  	 console.log("<h3>"+counts+"<h3/>");
+  var jobRequire = $('.job_bt');//工作要求所在div
+  	 console.log("<h3>"+counts+"</h3>");
 	 counts++;
 	 console.log(jobRequire.toString());
 }
-
+//拉钩网请求地址 city=北京
+var url='http://www.lagou.com/jobs/positionAjax.json?city=%E5%8C%97%E4%BA%AC';
+//  从浏览器分析的xhr数据所得
+//请求数据构成  分页形式的数据
 var pn=0;
 first="true"
 var data = {first:first,pn:pn,kd:"java"};
@@ -44,7 +46,7 @@ var data = {first:first,pn:pn,kd:"java"};
 
 do
 {
-getInfo(url,data)
+getInfo(url,data,parseIds )
 pn=pn+1
 first="false"
 }

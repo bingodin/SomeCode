@@ -17,7 +17,7 @@ var request = require('request'),
     zlib = require('zlib'),
     debug = require('debug')('crawler: ');
 
-function crawler(url,parser){
+function crawler(url,parser,parserArguments){
     function response(err, res, body){
          if(err){
              return console.log(err)
@@ -28,7 +28,7 @@ function crawler(url,parser){
             if (err) {
                 return console.log(err)
             }
-          parser(buffer.toString());
+          parser(buffer.toString(),parserArguments);
 
         });
     }

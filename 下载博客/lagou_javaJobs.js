@@ -1,6 +1,7 @@
 ﻿var request = require('request');
 var cheerio = require('cheerio');
 var crawler = require('./crawler');
+//post请求数据
 function postInfo(httpRequet, parser) {
 
 	request.post(httpRequet, function optionalCallback(err, httpResponse, body) {
@@ -13,7 +14,7 @@ function postInfo(httpRequet, parser) {
 
 	});
 
-}
+
 //数据id数组
 function parseIdsThenCrawler(body) {
 	var jsonD = JSON.parse(body);
@@ -33,6 +34,7 @@ function parseIdsThenCrawler(body) {
 
 }
 //拉钩网java工作要求
+
 function parseJobRequire(html, parserArguments) {
 	var $ = cheerio.load(html);
 	var jobRequire = $('.job_bt');
@@ -59,6 +61,22 @@ function download() {
 		'LGUID=20151026154208-0fca14e9-7bb5-11e5-8fd0-5254005c3644; index_location_city=%E5%8C%97%E4%BA%AC;' + 'SEARCH_ID=fd70b79dba0c470e896032658e506867; _ga=GA1.2.950822083.1445845323; Hm_lvt_4233e74dff0ae5bd0a3d81c6ccf756e6=1445845323;' +
 		'Hm_lpvt_4233e74dff0ae5bd0a3d81c6ccf756e6=1445845339; LGSID=20151026154208-0fca1208-7bb5-11e5-8fd0-5254005c3644;' +
 		'LGRID=20151026154223-18645bdf-7bb5-11e5-8fd0-5254005c3644'
+
+function parseJobRequire (html){
+  var  $ = cheerio.load(html);
+  var jobRequire = $('.job_bt');//工作要求所在div
+  	 console.log("<h3>"+counts+"</h3>");
+	 counts++;
+	 console.log(jobRequire.toString());
+}
+//拉钩网请求地址 city=北京
+var url='http://www.lagou.com/jobs/positionAjax.json?city=%E5%8C%97%E4%BA%AC';
+//  从浏览器分析的xhr数据所得
+//请求数据构成  分页形式的数据
+var pn=0;
+first="true"
+var data = {first:first,pn:pn,kd:"java"};
+
 
 		var first = "true";
 	var pn = 0;
@@ -101,7 +119,7 @@ function download() {
 	            }
 	        }
 	time();		
-}
+
 
 
 download();

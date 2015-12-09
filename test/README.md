@@ -9,6 +9,7 @@
 		+2.1 expr:term((plus|minus)term)*
 		+2.2 term:facter((mul|div)factor)*
 		+2.3factor:Interger|lparen expr rparen
+	+3.有一个简单json解释实现
 
 1.[四则运算解释器!](https://github.com/rspivak/lsbasi)
 

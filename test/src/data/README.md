@@ -1,2 +1,4 @@
 SIMPLE Interpreter
-TODO add IR(AST)
+add IR(AST)
+lispStyle
+backOperateStyle

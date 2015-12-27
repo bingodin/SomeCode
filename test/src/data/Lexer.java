@@ -59,7 +59,6 @@ public class Lexer {
 				return new Token(TokenType.INTEGER, integer());
 
 			}
-
 			if (current == TokenType.PLUS.getC()) {
 				advance();
 				return new Token(TokenType.PLUS, TokenType.PLUS.getC());

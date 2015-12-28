@@ -9,11 +9,11 @@ public class Parser {
 		this.current_token = lexer.get_next_token();
 	}
 
-	public void error() throws Exception {
+	private void error() throws Exception {
 			throw new Exception("格式错误的表达式");
 	}
 
-	public AST term() throws Exception {
+	private AST term() throws Exception {
 		AST node = factor();
 		while (current_token.type == TokenType.DIV
 				|| current_token.type == TokenType.MUL) {
@@ -32,7 +32,7 @@ public class Parser {
 
 	}
 
-	public AST factor() throws Exception {
+	private AST factor() throws Exception {
 		if (current_token.type == TokenType.INTEGER) {
 			Token token = current_token;
 			eat(TokenType.INTEGER);
@@ -47,7 +47,7 @@ public class Parser {
 		return null;
 	}
 
-	public AST expr() throws Exception {
+	private AST expr() throws Exception {
 
 		AST node = term();
 		while (current_token.type == TokenType.PLUS
@@ -67,7 +67,7 @@ public class Parser {
 
 	}
 
-	public void eat(TokenType type) throws Exception {
+	private void eat(TokenType type) throws Exception {
 		if (this.current_token.type == type) {
 			current_token = lexer.get_next_token();
 			return;

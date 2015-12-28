@@ -12,13 +12,13 @@ public class Lexer {
 		this.current_char = this.text.charAt(pos);
 	}
 
-	public void error() throws Exception {
+	private void error() throws Exception {
 
 		throw new Exception("·Ç·¨×Ö·û");
 
 	}
 
-	public void advance() {
+	private void advance() {
 		this.pos += 1;
 		if (pos > text.length() - 1) {
 			this.current_char = Character.MIN_VALUE;
@@ -27,17 +27,17 @@ public class Lexer {
 		}
 	}
 
-	public void skip_whitespace() {
+	private void skip_whitespace() {
 		while (pos < text.length() && isspace(text.charAt(pos))) {
 			advance();
 		}
 	}
 
-	public boolean isspace(char c) {
+	private boolean isspace(char c) {
 		return (c + "").trim().length() == 0;
 	}
 
-	public String integer() {
+	private String integer() {
 		String result = "";
 		while (pos < text.length() && Character.isDigit(text.charAt(pos))) {
 			result += text.charAt(pos);

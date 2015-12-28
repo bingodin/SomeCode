@@ -2,6 +2,7 @@ package data.json;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+
 import org.junit.Test;
 
 public class Parser {
@@ -15,7 +16,7 @@ public class Parser {
 		this.current_token = lexer.get_next_token();
 	}
 
-	public void eat(JsonTokenType type) throws Exception {
+	private void eat(JsonTokenType type) throws Exception {
 		if (this.current_token.type == type) {
 			current_token = lexer.get_next_token();
 			return;
@@ -23,15 +24,11 @@ public class Parser {
 		error();
 	}
 
-	public void error() {
-		try {
+	private void error() throws Exception {
 			throw new Exception("格式错误的表达式");
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
 	}
 
-	public ArrayList<Object> getList() throws Exception {
+	private ArrayList<Object> getList() throws Exception {
 		ArrayList<Object> list = new ArrayList<>();
 		list.add(getJson());
 		while (current_token.type == JsonTokenType.COMMA) {
@@ -45,7 +42,7 @@ public class Parser {
 	}
 
 	//
-	public Object getJson() throws Exception {
+	private Object getJson() throws Exception {
 		/**
 		 * JSON:{key:v}|number|array|string
 		 * key:string|(canbeJOSN)
@@ -86,7 +83,7 @@ public class Parser {
 		}
 		return null;
 	}
-
+	
 	private HashMap<Object, Object> getKVmap() throws Exception {
 		HashMap<Object, Object> jo = new HashMap<>();
 		Object k = getJson();
@@ -106,7 +103,13 @@ public class Parser {
 		}
 		return jo;
 	}
-
+	public Object parser() throws Exception{
+		Object json = getJson();
+		if(current_token.type!=JsonTokenType.EOF){
+			error();
+		}
+		return json;
+	}
 	@Test
 	public void testJson() throws Exception {
 

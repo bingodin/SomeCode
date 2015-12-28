@@ -9,12 +9,8 @@ public class Parser {
 		this.current_token = lexer.get_next_token();
 	}
 
-	public void error() {
-		try {
+	public void error() throws Exception {
 			throw new Exception("格式错误的表达式");
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
 	}
 
 	public AST term() throws Exception {
@@ -80,7 +76,10 @@ public class Parser {
 	}
 
 	public AST parse() throws Exception {
-
-		return expr();
+		AST expr = expr();
+		if(current_token.type!= TokenType.EOF){
+			error();
+		}
+		return expr;
 	}
 }

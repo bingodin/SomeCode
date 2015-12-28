@@ -47,7 +47,20 @@ public class TestInterpreter {
 		assertEquals(r, 4);
 
 	}
-
+	//”Ô∑®¥ÌŒÛ
+	@Test 
+	public void testUnexcept(){
+		Lexer lexer = new Lexer("1*2 1");
+		Parser parser;
+		try {
+			parser = new Parser(lexer);
+			parser.parse();
+			assert(false);
+		} catch (Exception e1) {
+			assert(true);
+		}
+	
+	}
 	public static void main(String[] args) {
 		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);

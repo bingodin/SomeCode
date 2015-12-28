@@ -28,8 +28,7 @@ public class Lexer {
 	}
 
 	public void skip_whitespace() {
-		while (this.current_char != Character.MIN_VALUE
-				&& isspace(text.charAt(pos))) {
+		while (pos < text.length() && isspace(text.charAt(pos))) {
 			advance();
 		}
 	}
@@ -40,8 +39,7 @@ public class Lexer {
 
 	public String integer() {
 		String result = "";
-		while (this.current_char != Character.MIN_VALUE
-				&& Character.isDigit(text.charAt(pos))) {
+		while (pos < text.length() && Character.isDigit(text.charAt(pos))) {
 			result += text.charAt(pos);
 			advance();
 		}
@@ -49,7 +47,7 @@ public class Lexer {
 	}
 
 	public Token get_next_token() throws Exception {
-		while (this.current_char != Character.MIN_VALUE) {
+		while (pos < text.length()) {
 			char current = text.charAt(pos);
 			if (isspace(current)) {
 				skip_whitespace();

@@ -10,7 +10,7 @@ public class Parser {
 	}
 
 	private void error() throws Exception {
-			throw new Exception("格式错误的表达式");
+		throw new Exception("格式错误的表达式");
 	}
 
 	private AST term() throws Exception {
@@ -33,7 +33,15 @@ public class Parser {
 	}
 
 	private AST factor() throws Exception {
-		if (current_token.type == TokenType.INTEGER) {
+		if (current_token.type == TokenType.PLUS) {
+			Token token = current_token;
+			eat(TokenType.PLUS);
+			return new UnaryOp(token, factor());
+		} else if (current_token.type == TokenType.MINUS) {
+			Token token = current_token;
+			eat(TokenType.MINUS);
+			return new UnaryOp(token, factor());
+		} else if (current_token.type == TokenType.INTEGER) {
 			Token token = current_token;
 			eat(TokenType.INTEGER);
 			return new NumAST(token);
@@ -77,7 +85,7 @@ public class Parser {
 
 	public AST parse() throws Exception {
 		AST expr = expr();
-		if(current_token.type!= TokenType.EOF){
+		if (current_token.type != TokenType.EOF) {
 			error();
 		}
 		return expr;

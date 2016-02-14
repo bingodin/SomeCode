@@ -8,8 +8,18 @@ import org.junit.Test;
 
 public class TestInterpreter {
 	@Test
+	public void testUnaryOp() throws Exception{
+		Lexer lexer = new Lexer("1---2");
+		Parser parser = new Parser(lexer);
+
+		int r = new InterpreterVistor(parser).eval();
+		System.out.println("UnaryOp:"+r);
+		assertEquals(r, -1);
+	}
+	@Test
 	public void testTranslate() throws Exception {
-		Lexer lexer = new Lexer("(1*(2+1))");
+//		Lexer lexer = new Lexer("(1*(2+1))");
+		Lexer lexer = new Lexer("1--+2");
 		Parser parser = new Parser(lexer);
 		AST node = parser.parse();
 		System.out.println("--------------------------");

@@ -1,0 +1,151 @@
+﻿<!doctype html>
+<html>
+<head>
+    <title></title>
+    <style>
+      canvas{
+        display:block;
+        margin:50px auto;
+        box-shadow: -2px -2px 2px #999, 3px 3px 3px #999;
+      }
+    </style>
+</head>
+<body>
+
+<canvas id="canvas" width="270" height="270"></canvas>
+</body>
+<script>
+
+function nearNotHave(i,j){
+  var b =true;
+  if(i>0&&j>0){b=b&& a[i-1][j-1]==0;if (!b) {return  b};}
+  if(i>0&&j<7){b=b&& a[i-1][j+1]==0;if (!b) {return  b};}
+  if(i<7&&j>0){b=b&& a[i+1][j-1]==0;if (!b) {return  b};}
+  if(i<7&&j<7){b=b&& a[i+1][j+1]==0;if (!b) {return  b};}
+  return b;
+}
+
+
+function crossNotHave(i,j){
+  var b =true;
+  for (var k=1;k<7;k++){
+    if(i>k&&j>k){b=b&& a[i-k][j-k]==0;if (!b) {return  b};}
+    if(i>k&&j+k<7){b=b&& a[i-k][j+k]==0;if (!b) {return  b};}
+    if(i+k<7&&j>k){b=b&& a[i+k][j-k]==0;if (!b) {return  b};}
+    if(i+k<7&&j+k<7){b=b&& a[i+k][j+k]==0;if (!b) {return  b};}
+    }
+  return b;
+}
+
+
+
+
+function iNotHave(i){
+  var sum=0;
+  for (var j =0; j < 8; j++) {
+      sum+=a[i][j];
+  }
+  return sum==0;
+}
+function jNotHave(j){
+  var sum=0;
+  for (var i =0; i< 8; i++) {
+      sum+=a[i][j];
+  }
+  return sum==0;
+}
+var chess=document.getElementById("canvas");
+content=chess.getContext("2d");
+
+drawChess();
+
+//绘制棋盘线条
+function drawChess (){
+for(i=0; i<9; i++){
+//横线
+content.strokeStyle="#BFBFBF";
+content.moveTo(15,15+i*30);
+content.lineTo(255,15+i*30);
+content.stroke();
+//纵线
+content.strokeStyle="#BFBFBF";
+content.moveTo(15+i*30,15);
+content.lineTo(15+i*30,255);
+content.stroke();
+}
+}
+
+var uui=0;
+while(uui<8){
+  var count =0;
+  var a=[];
+  for (var i =0; i < 8; i++) {
+    a[i]=[];
+    for (var j =0; j < 8; j++) {
+      a[i][j]=0; 
+    }
+  }
+
+  for (var i =uui; i < 8; i++) {
+    if(iNotHave(i)){
+      for (var j =0; j < 8; j++) {
+      if(jNotHave(j)&&nearNotHave(i,j)){
+        a[i][j]=1;
+        count++;
+        break;
+      }
+    } 
+    }
+  }
+
+  for ( i =0; i < uui; i++) {
+      if(iNotHave(i)){
+        for (var j =0; j < 8; j++) {
+        if(jNotHave(j)&&crossNotHave(i,j)){
+          a[i][j]=1;
+          count++;
+          break;
+        }
+      } 
+    }
+  }
+  uui++;
+  console.log(uui)
+  if(count==8){
+    for (var i =0; i < 8; i++) {
+      console.log(a[i].join("|"))
+    }
+      for (var i =0; i < 8; i++) {
+      for (var j =0; j < 8; j++) {
+        if(a[j][i]==1){
+          
+          oneStep(i,j,true)
+        }
+        
+      }
+      
+    }
+    break;
+  }
+}
+
+//绘制旗子
+ function  oneStep(i, j, me){
+
+content.beginPath();
+content.arc(30+i*30, 30+j*30, 13, 0, 2*Math.PI);
+content.closePath();
+
+var gradient=content.createRadialGradient(30+i*30+2,30+j*30-2,13,30+i*30+2,30+j*30-2,0); 
+  gradient.addColorStop(0,"#4f6A6A"); 
+  gradient.addColorStop(1,"#63ff66"); 
+  content.fillStyle=gradient; 
+  content.fill();
+ 
+}
+</script>
+
+
+
+
+</html>

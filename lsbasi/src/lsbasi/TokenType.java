@@ -1,5 +1,5 @@
 package lsbasi;
 
 public enum TokenType {
-	INTEGER, PLUS, EOF;
+	INTEGER, PLUS,MINUS,MULTI,DIV, EOF;
 }

@@ -3,6 +3,7 @@ package lsbasi;
 import lsbasi.ast.AST;
 import lsbasi.ast.BinOpAST;
 import lsbasi.ast.NumberAST;
+import lsbasi.ast.UnaryOpAST;
 
 public class Parser {
 	private Lexer lexer;
@@ -27,7 +28,7 @@ public class Parser {
 			Token token = currentToken;
 			eat(token.type);
 			AST right = term();
-			node= new BinOpAST(node, token, right);
+			node = new BinOpAST(node, token, right);
 		}
 		return node;
 	}
@@ -40,14 +41,18 @@ public class Parser {
 			eat(token.type);
 
 			AST right = factor();
-			node= new BinOpAST(node, token, right);
+			node = new BinOpAST(node, token, right);
 		}
 		return node;
 	}
 
 	private AST factor() throws Exception {
 		Token token = currentToken;
-		if (token.type == TokenType.INTEGER) {
+		if (token.type == TokenType.PLUS || token.type == TokenType.MINUS) {
+
+			eat(token.type);
+			return new UnaryOpAST(token, factor());
+		} else if (token.type == TokenType.INTEGER) {
 
 			eat(TokenType.INTEGER);
 			return new NumberAST(Integer.parseInt(token.value));

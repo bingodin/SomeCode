@@ -1,7 +1,6 @@
 package lsbasi.ast;
 
 import lsbasi.Token;
-import lsbasi.TokenType;
 
 public class BinOpAST implements AST {
 	public AST left;

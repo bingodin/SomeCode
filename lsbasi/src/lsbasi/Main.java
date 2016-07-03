@@ -6,6 +6,7 @@ public class Main {
 
 	public static void main(String[] args) throws Exception {
 		System.out.println("lsbasi");
+		@SuppressWarnings("resource")
 		Scanner s = new Scanner(System.in);
 		while (true) {
 			System.out.print(">");

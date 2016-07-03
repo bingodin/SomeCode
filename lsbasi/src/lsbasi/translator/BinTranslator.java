@@ -1,8 +1,6 @@
 package lsbasi.translator;
 
 import lsbasi.Token;
-import lsbasi.TokenType;
-import lsbasi.ast.AST;
 import lsbasi.ast.BinOpAST;
 
 public class BinTranslator {

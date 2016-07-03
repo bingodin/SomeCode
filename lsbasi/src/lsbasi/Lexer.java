@@ -5,13 +5,15 @@ public class Lexer {
 	private int pos;
 	private Token currentToken;
 	private char currentChar;
+
 	public Lexer(String text) {
 		this.text = text;
 		pos = 0;
 		currentToken = null;
 		currentChar = text.charAt(pos);
 	}
-	Token getNextToken() throws Exception {
+
+	public Token getNextToken() throws Exception {
 		if (pos > text.length() - 1) {
 			return new Token(TokenType.EOF, null);
 		}
@@ -64,7 +66,7 @@ public class Lexer {
 		}
 	}
 
-	String getNumber() {
+	private String getNumber() {
 		StringBuilder s = new StringBuilder();
 		while (Character.isDigit(currentChar)) {
 			s.append(currentChar);

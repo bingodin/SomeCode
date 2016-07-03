@@ -10,9 +10,17 @@ public class Token {
 		this.value = value;
 	}
 
+	public TokenType getType() {
+		return type;
+	}
+
 	@Override
 	public String toString() {
 		return "Token [type=" + type + ", value=" + value + "]";
+	}
+
+	public String getValue() {
+		return value;
 	}
 
 }

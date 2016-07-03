@@ -8,7 +8,7 @@ public class Main {
 		System.out.println("lsbasi");
 		Scanner s = new Scanner(System.in);
 		while (true) {
-			System.out.println(">");
+			System.out.print(">");
 			String str = s.nextLine();
 			Interpreter i = new Interpreter(str);
 			int r = i.expr();

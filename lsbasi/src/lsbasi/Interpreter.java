@@ -72,34 +72,27 @@ public class Interpreter {
 		throw new Exception("parse error");
 	}
 
+	int term() throws Exception {
+		Token token = currentToken;
+		eat(TokenType.INTEGER);
+		return Integer.parseInt(token.value);
+	}
+
 	public int expr() throws Exception {
 		currentToken = getNextToken();
-		int left = Integer.parseInt(currentToken.value);
-		eat(TokenType.INTEGER);
-		do {
-			Token op = currentToken;
+		int result = term();
 
-			eat(op.type);
-			int right = Integer.parseInt(currentToken.value);
-			eat(TokenType.INTEGER);
-
-			if (op.type == TokenType.PLUS) {
-				left = left + right;
-			} else if (op.type == TokenType.MINUS) {
-				left = left - right;
-			} else if (op.type == TokenType.MULTI) {
-				left = left * right;
-			} else if (op.type == TokenType.DIV) {
-				left = left / right;
+		while (currentToken.type == TokenType.DIV || currentToken.type == TokenType.MULTI) {
+			Token token = currentToken;
+			eat(token.type);
+			if (token.type == TokenType.DIV) {
+				result /= term();
 			} else {
-				error();
+				result *= term();
 			}
 		}
-
-		while (currentToken.type != TokenType.EOF);
-
-		return left;
-
+		eat(TokenType.EOF);
+		return result;
 	}
 
 	private void eat(TokenType type) throws Exception {

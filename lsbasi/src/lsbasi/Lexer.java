@@ -36,6 +36,14 @@ public class Lexer {
 			advace();
 			return new Token(TokenType.DIV, "/");
 		}
+		if (currentChar == '(') {
+			advace();
+			return new Token(TokenType.LPAREN, "(");
+		}
+		if (currentChar == ')') {
+			advace();
+			return new Token(TokenType.RLPAREN, ")");
+		}
 		error();
 		return currentToken;
 	}

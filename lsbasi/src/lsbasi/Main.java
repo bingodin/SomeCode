@@ -10,7 +10,7 @@ public class Main {
 		while (true) {
 			System.out.print(">");
 			String str = s.nextLine();
-			Interpreter i = new Interpreter(str);
+			Interpreter i = new Interpreter(new Lexer(str));
 			int r = i.expr();
 			System.out.println(r);
 		}

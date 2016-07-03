@@ -28,7 +28,7 @@ public class Lexer {
 		}
 		if (currentChar == '-') {
 			advace();
-			return new Token(TokenType.MINUS, "+");
+			return new Token(TokenType.MINUS, "-");
 		}
 		if (currentChar == '*') {
 			advace();
@@ -46,8 +46,40 @@ public class Lexer {
 			advace();
 			return new Token(TokenType.RLPAREN, ")");
 		}
+		if (currentChar == '{') {
+			advace();
+			return new Token(TokenType.BEGIN, "{");
+
+		}
+		if (currentChar == '}') {
+			advace();
+			return new Token(TokenType.END, "}");
+		}
+		if (currentChar == ';') {
+			advace();
+			return new Token(TokenType.SEMI, ";");
+
+		}
+		if (currentChar == '=') {
+			advace();
+			return new Token(TokenType.ASSIGN, "=");
+
+		}
+		if (Character.isAlphabetic(currentChar)) {
+			return new Token(TokenType.ID, id());
+
+		}
 		error();
 		return currentToken;
+	}
+
+	private String id() {
+		StringBuilder s = new StringBuilder();
+		while (Character.isAlphabetic(currentChar)) {
+			s.append(currentChar);
+			advace();
+		}
+		return s.toString();
 	}
 
 	private void skipWiteSpace() {
@@ -73,6 +105,14 @@ public class Lexer {
 			advace();
 		}
 		return s.toString();
+	}
+
+	char peek() {
+		int pos = this.pos + 1;
+		if (pos > text.length() - 1) {
+			return Character.MIN_VALUE;
+		}
+		return text.charAt(pos);
 	}
 
 	private void error() throws Exception {

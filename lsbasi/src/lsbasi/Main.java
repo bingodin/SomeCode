@@ -11,9 +11,8 @@ public class Main {
 		while (true) {
 			System.out.print(">");
 			String str = s.nextLine();
-			Interpreter i = new Interpreter(new Parser(new  Lexer(str)));
-			int r = i.eval();
-			System.out.println(r);
+			Interpreter i = new Interpreter(new Parser(new Lexer(str)));
+			i.run();
 		}
 	}
 

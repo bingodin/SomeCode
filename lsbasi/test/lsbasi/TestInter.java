@@ -3,20 +3,17 @@ package lsbasi;
 import org.junit.Assert;
 import org.junit.Test;
 
+import lsbasi.ast.StatementListAST;
+
 public class TestInter {
-
 	@Test
-	public void test1() throws Exception {
-		Interpreter i = new Interpreter(new Parser(new Lexer("--1*1+1+2+(2*++2)")));
-		int r = i.eval();
-		Assert.assertEquals(r, 8);
+	public void test() throws Exception {
+		Lexer lexer = new Lexer("{number=2;a=number;b=10*a+10;c=a--b};x=11;");
+		Parser p = new Parser(lexer);
 
-	}
-	@Test
-	public void test2() throws Exception {
-		Interpreter i = new Interpreter(new Parser(new Lexer("--8++0")));
-		int r = i.eval();
-		Assert.assertEquals(r, 8);
+		Interpreter i = new Interpreter(p);
+		i.run();
+		System.out.println(i.GLOBAL_SCOPE);
 
 	}
 }

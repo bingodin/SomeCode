@@ -1,9 +1,6 @@
 package lsbasi;
 
-import org.junit.Assert;
 import org.junit.Test;
-
-import lsbasi.ast.StatementListAST;
 
 public class TestInter {
 	@Test

@@ -37,7 +37,8 @@ public class Parser {
 			if (currentToken.type == TokenType.SEMI) {
 				eat(TokenType.SEMI);
 			}
-			list.add(statement());
+			if (currentToken.type != TokenType.EOF)
+				list.add(statement());
 		}
 		return list;
 	}

@@ -25,7 +25,7 @@ public class Parser {
 				eat(TokenType.DIV);
 
 			}
-			return new BinAST(node, token, factor());
+			node = new BinAST(node, token, factor());
 		}
 
 		return node;

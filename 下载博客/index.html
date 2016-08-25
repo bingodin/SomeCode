@@ -1,0 +1,102 @@
+<!DOCTYPE>
+<html>
+<head>
+<meta charset='utf-8'>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.2/marked.min.js"></script>
+
+
+</head>
+<div id="text" style="
+    display: none;
+">
+![Paste_Image.png](http://upload-images.jianshu.io/upload_images/1378060-a5b41b0855ec0ce5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+话说呀，eclipse的文档很不够用呀，写的简直是一个不容易理解，可能作者觉得显而易见的东西，到我这里就完全看不懂。**显然=>懵逼**。
+
+当然eclipse设计的非常好，优秀的面相对象设计和扩展性，为自己喜欢的开发工具写扩展真是兴奋的事情。
+
+>摘录一些片段，供大家欣赏。或者日后参考....
+
+##熟悉插件开发方法
+用向导工具生成相应的代码，熟悉环境，参考官网的文档，一些方面写对不错。完整的工程在代码会放在[github/yfor](https://github.com/yfor)。
+
+开发基本用了一天的时间，当然看了两天的文档，用Google搜索，代码复制粘贴stackoverflow,抄各种博客。
+
+##语法高亮
+### extends RuleBasedScanner 增加rule
+```java
+
+```
+### 自定义我们的rule（实现IRule）
+需要一些语法分析的基础。
+```java
+
+```
+### 自定义我们的颜色
+```java
+
+```
+## 智能提示
+
+### extends SourceViewerConfiguration
+```java
+
+	@Override
+	public IContentAssistant getContentAssistant(ISourceViewer sourceViewer) {
+		ContentAssistant assistant = new ContentAssistant();
+		//可以增加shell控件，显示函数帮助信息。
+assistant.setContentAssistProcessor(new JavaCompletionProcessor(), IDocument.DEFAULT_CONTENT_TYPE);
+		assistant.setContentAssistProcessor(new JavaDocCompletionProcessor(), XMLPartitionScanner.XML_TAG);
+		assistant.enableAutoActivation(true);
+		assistant.setAutoActivationDelay(500);
+		return assistant;
+	}
+```
+### implements IContentAssistProcessor 
+```java
+	@Override
+	public ICompletionProposal[] computeCompletionProposals(ITextViewer arg0, int arg1) {
+		ICompletionProposal[] result = new ICompletionProposal[3];
+		IContextInformation info = new ContextInformation("http", "http request");
+		result[0] = new CompletionProposal("http", arg1, 0, 4);
+		info = new ContextInformation("ssh", "ssh con");
+		result[1] = new CompletionProposal("ssh", arg1, 0, 3);
+		info = new ContextInformation("sql", "sql test");
+		result[2] = new CompletionProposal("sql", arg1, 0, 3);
+		return result;
+	}
+```
+## 右键弹出菜单
+### 获取文件相关
+```java
+
+```
+### 运行命令 
+需要异步
+```java
+
+```
+### 重定向到console
+**增加console依赖**
+```java
+
+```
+如果完全看不懂，那么不要担心，就在写这篇文章的前几个小时，我也不理解这些代码的作用，甚至可以确定，直到很久以后我也很难理解这些组件的组合原理。看看我们的达到的效果，足以激动人心但是没多大用处的*功能*。
+##feature
+1. 语法高亮
+2. 右键执行命令
+3. 重定向输出到控制台组件
+4. 自动补全
+
+
+最主要的是使用Google，阅读文档，你也可以开发出来自己的插件。
+
+欢迎阅读[我的其它文章](http://www.jianshu.com/users/239b78e02402/latest_articles)。
+</div>
+<div id="view">
+dd
+
+</div>
+<script>
+view.innerHTML=marked(text.innerHTML)
+</script>
+</html>

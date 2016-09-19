@@ -1,14 +1,45 @@
-<!DOCTYPE>
-<html>
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-webkit book-new-nav">
 <head>
-<meta charset='utf-8'>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.2/marked.min.js"></script>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.2/marked.min.js"></script>
 
-
-</head>
-<div id="text" style="
-    display: none;
+  <title>
+  豆瓣图书标签: 编程
+</title>
+<ol>
+<li>
+<a href="
+[www.java1234.com]计算机程序的构造和解释中文版.pdf
 ">
+[www.java1234.com]计算机程序的构造和解释中文版.pdf
+</a>
+</li>
+<li>
+<a href="
+人月神话(The.Mythical.Man.Month).pdf
+">
+人月神话(The.Mythical.Man.Month).pdf
+</a>
+</li>
+<li>
+<a href="
+代码大全（第二版，中文版）.扫描版.pdf
+">
+代码大全（第二版，中文版）.扫描版.pdf
+</a>
+</li>
+<li>
+<a href="
+The.Pragmatic.Programmer.From.Journeyman.To.Master.扫描版.pdf
+">
+The.Pragmatic.Programmer.From.Journeyman.To.Master.扫描版.pdf
+</a>
+</li>
+</ol>
+<div style="float:left;margin-left: 40px;">
+<textarea rows="135" cols="80" oninput ="checkField(this.value)" id="text">
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/1378060-a5b41b0855ec0ce5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 话说呀，eclipse的文档很不够用呀，写的简直是一个不容易理解，可能作者觉得显而易见的东西，到我这里就完全看不懂。**显然=>懵逼**。
 
@@ -91,12 +122,17 @@ assistant.setContentAssistProcessor(new JavaCompletionProcessor(), IDocument.DEF
 最主要的是使用Google，阅读文档，你也可以开发出来自己的插件。
 
 欢迎阅读[我的其它文章](http://www.jianshu.com/users/239b78e02402/latest_articles)。
+
+</textarea>
 </div>
-<div id="view">
-dd
+<div  style="float:left;    width: 40%;margin-left: 40px;border-width: 1px;
+    border-style: solid;padding: 20px;">
+<div id="view"></div>
 
 </div>
 <script>
-view.innerHTML=marked(text.innerHTML)
+function checkField(){
+view.innerHTML=marked(text.value)
+}
+view.innerHTML=marked(text.value)
 </script>
-</html>
